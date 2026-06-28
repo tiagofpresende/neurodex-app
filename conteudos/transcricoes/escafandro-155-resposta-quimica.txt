@@ -1,0 +1,933 @@
+﻿==== [chunk_000] ====
+whisper_vitisai_encode: Vitis AI model inference completed.
+
+[00:00:00.000 --> 00:00:07.200]   Oi. Antes de come├ºar, dois avisos. Primeiro, esse epis├│dio ├® a continua├º├úo do epis├│dio 155.
+[00:00:07.200 --> 00:00:12.200]   Se voc├¬ ainda n├úo ouviu o ├║ltimo epis├│dio, melhor pausar aqui e ir l├í escutar.
+[00:00:12.200 --> 00:00:17.400]   E segundo, esse epis├│dio trata de temas sens├¡veis como depress├úo e suic├¡dio.
+[00:00:17.400 --> 00:00:22.600]   Ele ├® um conte├║do jornal├¡stico e n├úo foi pensado para ajudar pessoas em sofrimento ps├¡quico.
+[00:00:22.600 --> 00:00:28.800]   Se esse ├® o seu caso, eu sugiro que voc├¬ pare de escutar agora e procure ajuda especializada.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:00:28.800 --> 00:00:33.200]   R├ídio Guarda-chuva. Jornalismo para quem gosta de ouvir.
+[00:00:33.200 --> 00:00:46.400]   L├í em 2024, quando o Vitor Aguiar falou para a namorada dele sobre a possibilidade de ter uma crise convulsiva e sobre o que ela devia fazer caso isso acontecesse,
+[00:00:46.400 --> 00:00:49.200]   ele n├úo estava sendo excessivamente cauteloso.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:00:49.200 --> 00:00:59.200]   Ele sabia que as chances de ter uma crise convulsiva tinham aumentado consideravelmente porque ele tinha parado de tomar a droga que controlava os impulsos el├®tricos do c├®rebro dele.
+[00:00:59.200 --> 00:01:04.800]   A Carbamazepina, conhecida pelo nome comercial de Tegretol.
+[00:01:04.800 --> 00:01:12.200]   Pelo que o neurologista conta, ├® considerado um per├¡odo de estabilidade quando voc├¬ passa cinco anos sem ter uma crise.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:01:12.200 --> 00:01:25.200]   E no caso j├í estava dez anos sem ter crise. E tendo em vista que tem essa quest├úo toda do Tegretol competir pelos mesmos receptores qu├¡micos que os rem├®dios psiqui├ítricos.
+[00:01:25.200 --> 00:01:38.200]   Ent├úo tentou-se, digamos, retirar aos poucos a Carbamazepina pensando que 1) eu estava est├ível e 2) tem toda a quest├úo da intera├º├úo com a receita psiqui├ítrica.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:01:38.200 --> 00:01:46.200]   Pois ├®, essa intera├º├úo acontece porque al├®m das crises convulsivas, o Victor sofre com depress├úo.
+[00:01:46.200 --> 00:01:56.200]   E como o rem├®dio para tratar da press├úo age nos mesmos receptores que o anticonvulsivo, ele tende tomar uma dose mais alta do antidepressivo, o que aumenta os efeitos colaterais.
+[00:01:56.200 --> 00:02:02.200]   Ent├úo, por indica├º├úo do m├®dico, ele tentou aos poucos ir parando de tomar o rem├®dio, o chamado Dismami.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:02:02.200 --> 00:02:11.200]   Ok, os exames est├úo desta maneira, vamos retirando o rem├®dio. Quando eu estava com zero de rem├®dio, eu refiz todos os exames, os exames apontando tudo normal.
+[00:02:11.200 --> 00:02:19.200]   Ou seja, ok, est├í seguro, ├│timo, mas vamos continuar vendo. Passou o qu├¬? Dois meses eu tive a crise.
+[00:02:19.200 --> 00:02:30.200]   Ent├úo, de novo, n├úo se sabe exatamente porque eu tenho as crises, mas me parece seguro dizer que sem o rem├®dio eu estou muito vulner├ível a ter crises de convuls├úo.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:02:30.200 --> 00:02:34.200]   E a desenvolver cada vez mais um quadro de epilepsia.
+[00:02:34.200 --> 00:02:45.200]   O Victor hoje est├í conformado com a ideia de que provavelmente vai ter de tomar carbamazepina para o resto da vida.
+[00:02:45.200 --> 00:02:57.200]   Com a vantagem de que no caso desta medica├º├úo, n├úo existe subjetividade. Ele toma, as convuls├Áes param. Ele para de tomar, as convuls├Áes voltam.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:02:57.200 --> 00:03:01.200]   J├í com os antidepressivos, a rela├º├úo tem sido mais complexa.
+[00:03:01.200 --> 00:03:04.200]   Eu diria que eu respondo as medica├º├Áes.
+[00:03:04.200 --> 00:03:08.200]   Por outro lado, essa resposta ├® desagradavelmente vari├ível.
+[00:03:08.200 --> 00:03:23.200]   Conforme o tempo passa e voc├¬ j├í est├í usando a mesma medica├º├úo, o efeito percebido dela vai diminuindo, ent├úo de tempos em tempos acaba sendo necess├írio ou aumentar a dose ou eventualmente trocar o rem├®dio.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:03:23.200 --> 00:03:30.200]   Voc├¬ consegue lembrar quantas medica├º├Áes voc├¬ j├í tentou e voc├¬ j├í mudou ao longo desses 16 anos?
+[00:03:30.200 --> 00:03:35.200]   Bom, considerando as depressivas e os antihol├¡ticos, eu diria que eu j├í tomei mais de 10 diferentes.
+[00:03:35.200 --> 00:03:44.200]   Para mim, essa rela├º├úo oposta com os psicoativos ├® um dos pontos mais emblem├íticos da hist├│ria do Victor.
+[00:03:44.200 --> 00:03:49.200]   De um lado, uma doen├ºa que ├® combatida com um rem├®dio eficiente e cartesiano.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:03:49.200 --> 00:03:59.200]   Toma e resolve. Do outro, um transtorno que varia ao longo da vida e que ├® profundamente impactado por quest├Áes sociais, econ├┤micas e ambientais.
+[00:03:59.200 --> 00:04:04.200]   Um transtorno que segue sendo inventado e reinventado.
+[00:04:04.200 --> 00:04:11.200]   A depress├úo passa a ser um fen├┤meno comum por conta do vocabul├írio "depress├úo" estar circulando.
+[00:04:11.200 --> 00:04:17.200]   Essa ├® a psiquiatra, psicanalista e autora do livro "O que os psiquiatras n├úo te contam", Juliana Belo Diniz.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:04:17.200 --> 00:04:21.200]   Por que existia um rem├®dio que tratava isso? Isso muda a nossa rela├º├úo com sintomas.
+[00:04:21.200 --> 00:04:27.200]   Pessoas passam a se referir ao pr├│prio sofrimento como depress├úo. Ent├úo, ├® um fen├┤meno social.
+[00:04:27.200 --> 00:04:31.200]   N├úo ├® um fen├┤meno biol├│gico. ├ë esse aumento da frequ├¬ncia de depress├úo.
+[00:04:31.200 --> 00:04:37.200]   Quando eu perguntei sobre isso para o Victor, ele me disse que tem plena consci├¬ncia do aspecto sociocultural da depress├úo.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:04:37.200 --> 00:04:48.200]   Para mim era bastante claro que a desesperan├ºa e a ang├║stia, a tristeza tinham fatores externos que faziam com que eu me sentisse assim.
+[00:04:48.200 --> 00:04:52.200]   Isso me levou a uma pergunta das mais dif├¡ceis.
+[00:04:52.200 --> 00:04:57.200]   Uma coisa ├® especular a dist├óncia olhando para pesquisas e estat├¡sticas.
+[00:04:57.200 --> 00:05:01.200]   Outra, bem diferente, ├® viver com a depress├úo embaixo da pele.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:05:01.200 --> 00:05:10.200]   O que voc├¬ percebeu que foi o divisor de ├ígua? Aqui eu estou sentindo que tem alguma coisa que vai al├®m das coisas que o mundo est├í me trazendo.
+[00:05:10.200 --> 00:05:12.200]   Voc├¬ tinha esse sentimento?
+[00:05:12.200 --> 00:05:17.200]   Tinha. A resposta para isso, para mim, ├® bem n├¡tida.
+[00:05:17.200 --> 00:05:21.200]   A resposta ├® a partir do momento em que voc├¬ come├ºa a ter idea├º├úo suicida.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:05:21.200 --> 00:05:36.200]   O impacto que os fatores exteriores est├úo me causando, eles est├úo t├úo intensos que come├ºa a parecer uma possibilidade plaus├¡vel de que o melhor ├® que eu morra.
+[00:05:36.200 --> 00:05:39.200]   O melhor ├® que eu n├úo esteja aqui.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:05:39.200 --> 00:05:53.200]   E veja, racionalmente ├® ├│bvio que, calma l├í, n├úo ├® assim. Mas ali na hora voc├¬ simplesmente n├úo consegue se dar conta do qu├úo grave ├® uma afirma├º├úo dessas.
+[00:05:53.200 --> 00:05:59.200]   Ent├úo eu acho que esse ├® um divisor de ├ígua muito n├¡tido.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:06:09.200 --> 00:06:15.200]   Eu sou Tomas Chiaverini e o epis├│dio 156 de Escafandro j├í come├ºou.
+[00:06:15.200 --> 00:06:22.200]   Nele, a gente vai seguir na complexa e fascinante miss├úo de tentar responder a pergunta que parece resumir o nosso tempo.
+[00:06:22.200 --> 00:06:31.200]   A gente vive uma epidemia de transtornos mentais ou uma epidemia de drogas para tratar transtornos mentais?
+[00:06:31.200 --> 00:06:38.200]   Antes, eu preciso te lembrar que o Escafandro ├® orgulhosamente mantido por uma parte dos ouvintes que apoiam o projeto financeiramente.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:06:38.200 --> 00:06:44.200]   ├ë s├│ por conta deles que a gente est├í h├í sete anos nos tocadores com mais de 150 epis├│dios.
+[00:06:44.200 --> 00:06:52.200]   Ent├úo, se voc├¬ gosta do podcast, se quer que a gente continue tentando melhorar, se quer que a gente cres├ºa e se multiplique pelos pr├│ximos sete anos,
+[00:06:52.200 --> 00:06:58.200]   vem se juntar ao nosso financiamento coletivo. O caminho para isso ├® r├ípido, f├ícil e seguro.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:06:58.200 --> 00:07:12.200]   ├ë s├│ ir l├í no site catarse.me/escafandro. Com 5 reais voc├¬ j├í consegue apoiar e tem direito a mimos como ouvir os epis├│dios um dia antes,
+[00:07:12.200 --> 00:07:16.200]   gravar a ficha t├®cnica de um programa ou ter o seu nome citado por aqui.
+[00:07:16.200 --> 00:07:22.200]   Se voc├¬ n├úo quiser apoiar pelo Catarse, se ficou com alguma d├║vida ou se quer saber mais sobre as recompensas para apoiadores,
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:07:22.200 --> 00:07:28.200]   vai l├í em r├ídioescafandro.com que tem tudo explicadinho.
+[00:07:28.200 --> 00:07:33.200]   E por fim, se voc├¬ j├í est├í entre as pessoas luminosas que mant├¬m o podcast no ar h├í mais de sete anos,
+[00:07:33.200 --> 00:07:40.200]   gente como a Tainara Hanke, a Kledis Fernanda Brand├úo, o Paulo Eduardo Martins Ribola e o Lucas Amorim,
+[00:07:40.200 --> 00:07:44.200]   muito obrigado, mas muito obrigado mesmo por isso.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:07:51.200 --> 00:07:58.200]   A essa altura, talvez seja o caso de a gente se perguntar, afinal, o que s├úo transtornos mentais?
+[00:07:58.200 --> 00:08:03.200]   Quer dizer, o que diz se um determinado estado de esp├¡rito ├® tristeza ou depress├úo?
+[00:08:03.200 --> 00:08:06.200]   Se um jeito de se colocar no mundo ├® transtorno de ansiedade?
+[00:08:06.200 --> 00:08:14.200]   Se algu├®m ├® produtivo demais ou est├í sofrendo de transtorno do d├®ficit de aten├º├úo com imperatividade, o TDAH?
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:08:18.200 --> 00:08:24.200]   E a primeira resposta talvez seja um m├®dico ou um psic├│logo ou algum adolescente do TikTok.
+[00:08:24.200 --> 00:08:28.200]   Sim, esse fen├┤meno acontece e a gente vai falar dele mais para frente.
+[00:08:28.200 --> 00:08:33.200]   Mas antes, eu preciso dar um passo atr├ís nessa resposta para fazer outra pergunta.
+[00:08:33.200 --> 00:08:40.200]   Quem disse para o seu m├®dico, para o seu psic├│logo ou para o adolescente que voc├¬ segue no TikTok como diagnosticar algu├®m?
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:08:42.200 --> 00:08:48.200]   A quest├úo dos transtornos mentais ├® que os exames auxiliares, exames de sangue, exames de imagem,
+[00:08:48.200 --> 00:08:53.200]   eles s├│ servem para a psiquiatria para a gente excluir causas que n├úo s├úo da psiquiatria.
+[00:08:53.200 --> 00:08:58.200]   Ent├úo, por exemplo, uma doen├ºa neurol├│gica, uma doen├ºa endocrinol├│gica que pode explicar um sintoma psiqui├ítrico.
+[00:08:58.200 --> 00:09:01.200]   Ent├úo, os exames para a gente s├│ servem como exclus├úo.
+[00:09:01.200 --> 00:09:04.200]   S├│ servem para a gente dizer "olha, voc├¬ n├úo precisa de um psiquiatra para um neurologista".
+[00:09:04.200 --> 00:09:06.200]   Para a gente, eles n├úo t├¬m utilidade nenhuma.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:09:06.200 --> 00:09:15.200]   A gente faz diagn├│stico pura e simplesmente a partir de sintomas da nossa observa├º├úo e do relato dos pacientes e dos familiares.
+[00:09:15.200 --> 00:09:16.200]   ├ë isso que a gente faz.
+[00:09:16.200 --> 00:09:25.200]   Existem mil maneiras de sistematizar como a gente usa essas informa├º├Áes.
+[00:09:25.200 --> 00:09:27.200]   Milhares de maneiras.
+[00:09:27.200 --> 00:09:34.200]   E a├¡, para tornar essas maneiras um pouco mais homog├¬neas, os psiquiatras criaram o DSM.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:09:35.200 --> 00:09:39.200]   O Manual Diagn├│stico e Estat├¡stico de Transtornos Mentais.
+[00:09:39.200 --> 00:09:46.200]   Que pode ser visto como uma resposta da nossa sociedade ├á populariza├º├úo das primeiras drogas psicoativas.
+[00:09:46.200 --> 00:09:52.200]   Porque, como me explicou a psicanalista e psiquiatra Juliana Berodiniz, com o surgimento da psicofarmacologia,
+[00:09:52.200 --> 00:09:58.200]   foi preciso criar padr├Áes e protocolos at├® para organizar a burocracia inerente ├á prescri├º├úo de drogas.
+==== [chunk_001] ====
+whisper_vitisai_encode: Vitis AI model inference completed.
+
+[00:00:00.000 --> 00:00:02.440]   A gente vai escolher tem v├írios que sistema a gente vai escolher.
+[00:00:02.440 --> 00:00:08.160]   E a├¡ num primeiro momento se faz uma colcha de retalhos.
+[00:00:08.160 --> 00:00:13.880]   Ent├úo se pega ali o conhecimento da psicopatologia que vem muito da filosofia
+[00:00:13.880 --> 00:00:19.800]   da fenomenologia e muitos conceitos psicanal├¡ticos tamb├®m est├úo em voga.
+[00:00:19.800 --> 00:00:23.960]   Ent├úo voc├¬ faz ali uma colcha de retalhos e come├ºa a ter uma tentativa de
+[00:00:23.960 --> 00:00:28.600]   sistematiza├º├úo desses diagn├│sticos dessa classifica├º├úo a partir dos sintomas.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:00:29.240 --> 00:00:33.000]   Num primeiro momento que a gente faz essa colcha de retalhos a gente ainda assume
+[00:00:33.000 --> 00:00:35.800]   algumas teorias de causalidade.
+[00:00:35.800 --> 00:00:40.400]   Ent├úo a gente usa por exemplo a quest├úo do conceito de estruturas em psican├ílise
+[00:00:40.400 --> 00:00:42.960]   que tentam explicar certos funcionamentos.
+[00:00:42.960 --> 00:00:46.240]   Ent├úo a gente tem uma teoriza├º├úo mais profunda uma tentativa de explicar
+[00:00:46.240 --> 00:00:49.840]   origens causas do porqu├¬ que o sintoma ├® assim.
+[00:00:49.840 --> 00:00:53.320]   Os dois primeiros volumes do DSM eram pouco conhecidos
+[00:00:53.320 --> 00:00:55.760]   fora dos c├¡rculos dos profissionais de sa├║de mental.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:00:56.480 --> 00:01:00.920]   Mas a├¡ na d├®cada de 1980 as coisas mudaram radicalmente.
+[00:01:00.920 --> 00:01:04.560]   A gente come├ºa a ter muita cr├¡tica desse tipo de classifica├º├úo
+[00:01:04.560 --> 00:01:09.240]   em um grupo espec├¡fico dentro da psiquiatria ganha muita hegemonia
+[00:01:09.240 --> 00:01:14.800]   e esse grupo acredita numa coisa muito espec├¡fica eles acreditam que a classifica├º├úo
+[00:01:14.800 --> 00:01:19.640]   ela deve ser baseada numa ideia do Kreplin especificamente.
+[00:01:19.640 --> 00:01:23.840]   Emil Kreplin um psiquiatra alem├úo morto em 1926
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:01:23.960 --> 00:01:26.920]   que baseava as classifica├º├Áes a partir do progn├│stico
+[00:01:26.920 --> 00:01:30.320]   a partir do resultado daquele sintoma na vida daquela pessoa.
+[00:01:30.320 --> 00:01:34.680]   Ele observava as pessoas e falava come├ºou assim terminou daquele jeito.
+[00:01:34.680 --> 00:01:37.360]   Ent├úo ele tentava dividir os diagn├│sticos.
+[00:01:37.360 --> 00:01:40.640]   Ele tentava criar uma classifica├º├úo a partir desse resultado.
+[00:01:40.640 --> 00:01:44.760]   E a├¡ um grupo hegem├┤nico olha para ele e fala olha isso aqui que d├í para usar.
+[00:01:44.760 --> 00:01:48.520]   A gente n├úo pode ficar aqui inventando que a gente sabe a causa a gente n├úo sabe.
+[00:01:48.520 --> 00:01:52.440]   Ent├úo a gente vai esquecer qualquer explica├º├úo causal aqui
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:01:53.040 --> 00:01:56.440]   e vai trabalhar ├║nica exclusivamente com corte transversal de sintoma
+[00:01:56.440 --> 00:01:59.960]   a partir do que a gente conhece do hist├│rico de outras pessoas
+[00:01:59.960 --> 00:02:02.320]   que tiveram sintomas semelhantes. Ent├úo essa ├® a ideia geral.
+[00:02:02.320 --> 00:02:07.200]   E a├¡ em 1980 culmina na classifica├º├úo que a gente usa at├® hoje
+[00:02:07.200 --> 00:02:09.880]   que ├® essa classifica├º├úo muito baseada em lista de sintoma
+[00:02:09.880 --> 00:02:11.840]   e que n├úo faz nenhuma infer├¬ncia causada.
+[00:02:11.840 --> 00:02:13.840]   Ela n├úo tenta explicar nada.
+[00:02:13.840 --> 00:02:17.000]   Ela s├│ falou tem essa descri├º├úo aqui isso que ├® esse transtorno aqui
+[00:02:17.000 --> 00:02:20.480]   ele melhora ou n├úo com aquele rem├®dio l├í
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:02:20.920 --> 00:02:24.640]   com essa forma de psicoterapia ou n├úo e a evolu├º├úo em geral ├® cr├┤nico aguda.
+[00:02:24.640 --> 00:02:26.120]   ├ë isso que a gente faz.
+[00:02:26.120 --> 00:02:28.520]   Na ├®poca em que o DSM3 estava sendo finalizado
+[00:02:28.520 --> 00:02:31.320]   o presidente da Associa├º├úo Americana de Psiquiatria
+[00:02:31.320 --> 00:02:35.280]   que ├® a entidade respons├ível pelo guia disse que ele abre aspas
+[00:02:35.280 --> 00:02:39.400]   deixaria claro para quem tivesse d├║vidas que consideramos a psiquiatria
+[00:02:39.400 --> 00:02:42.920]   uma especialidade da medicina.
+[00:02:42.920 --> 00:02:48.560]   Existem v├írias formas de ver essa guinada em dire├º├úo ├á medicina.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:02:49.200 --> 00:02:53.560]   Os idealizadores do DSM3 falavam em aumentar a confiabilidade
+[00:02:53.560 --> 00:02:58.360]   e permitir que caso v├írios psiquiatras se sentassem diante de um mesmo paciente
+[00:02:58.360 --> 00:03:01.200]   todos eles se sa├¡ssem com o mesmo diagn├│stico.
+[00:03:01.200 --> 00:03:05.520]   Essa miss├úo como a gente disse l├í atr├ís parece n├úo ter sido cumprida.
+[00:03:05.520 --> 00:03:09.480]   Quando diferentes m├®dicos avariam o mesmo paciente de depress├úo por exemplo
+[00:03:09.480 --> 00:03:13.160]   s├│ 15% deles concordam com o diagn├│stico.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:03:15.680 --> 00:03:19.440]   Mas para al├®m disso a psican├ílise que tinha moldado os dois primeiros volumes
+[00:03:19.440 --> 00:03:21.160]   do guia estava em crise.
+[00:03:21.160 --> 00:03:25.040]   A psican├ílise tinha ficado muito grande.
+[00:03:25.040 --> 00:03:27.840]   V├írios psicanalistas americanos cometeram atrocidades
+[00:03:27.840 --> 00:03:31.920]   em rela├º├úo ├á base famosa de tratar a homossexualidade como doen├ºa
+[00:03:31.920 --> 00:03:33.120]   era uma coisa horrorosa.
+[00:03:33.120 --> 00:03:34.880]   Eles foram perseguidos com raz├úo.
+[00:03:34.880 --> 00:03:36.200]   N├úo deviam ter feito isso.
+[00:03:36.200 --> 00:03:37.760]   Veja n├úo ├® um problema da psican├ílise.
+[00:03:37.760 --> 00:03:41.120]   ├ë um problema de como alguns psicanalistas aplicaram a psican├ílise.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:03:41.680 --> 00:03:45.920]   Ent├úo tem ali uma grande crise tem uma revolta contra a psican├ílise
+[00:03:45.920 --> 00:03:47.600]   que tinha ali o seu contexto para acontecer.
+[00:03:47.600 --> 00:03:51.760]   Ent├úo tem uma necessidade de expurgar a psican├ílise do vocabul├írio psiqui├ítrico
+[00:03:51.760 --> 00:03:54.960]   e uma tentativa de aproximar a psiquiatria da medicina
+[00:03:54.960 --> 00:03:57.760]   geral da medicina que n├úo era psiquiatria.
+[00:03:57.760 --> 00:04:02.080]   Por fim tem a vis├úo mais cr├¡tica de que a partir da terceira edi├º├úo
+[00:04:02.080 --> 00:04:05.080]   o DSM passou a ser uma grande justificativa
+[00:04:05.080 --> 00:04:08.200]   para o uso mais generalizado de drogas psicoativas.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:04:08.880 --> 00:04:13.520]   Os adeptos dessa vis├úo argumentam que para isso o DSM tem basicamente criado
+[00:04:13.520 --> 00:04:16.160]   doen├ºas ou transtornos se voc├¬ preferir.
+[00:04:16.160 --> 00:04:20.800]   E aqui a gente de novo tem que tomar cuidado com a rela├º├úo de causa e efeito.
+[00:04:20.800 --> 00:04:25.200]   Um bom exemplo desse paradigma vem de um m├®dico chamado Peter Kramer.
+[00:04:25.200 --> 00:04:30.000]   Peter Kramer ├® um psiquiatra americano que ├® muito favor├ível ├á psicoterapia
+[00:04:30.000 --> 00:04:32.920]   e ele ├® um grande cl├¡nico.
+[00:04:32.920 --> 00:04:36.560]   Assim a quest├úo dele ├® realmente atender pacientes a grande especialidade dele.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:04:36.680 --> 00:04:40.880]   E ele tem um olhar muito cuidadoso assim para os efeitos dos tratamentos psiqui├ítricos.
+[00:04:40.880 --> 00:04:44.680]   E ali no final da d├®cada de 80 a d├®cada de 90 ele come├ºa a usar
+[00:04:44.680 --> 00:04:46.640]   os inibidores seletivos.
+[00:04:46.640 --> 00:04:49.480]   O Peter Kramer ├® autor do livro Ouvindo o Prozac
+[00:04:49.480 --> 00:04:52.520]   e foi um entusiasta da droga quando ela foi lan├ºada.
+[00:04:52.520 --> 00:04:57.920]   E ele fala bom esses rem├®dios eles t├¬m um efeito antidepressivo interessante.
+[00:04:57.920 --> 00:05:01.960]   S├│ que eu estou vendo uma coisa que curiosa que ├® eu tratei a pessoa
+[00:05:01.960 --> 00:05:05.240]   a pessoa j├í melhorou da depress├úo e eu falo para ela que eu quero tirar o rem├®dio
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:05:05.800 --> 00:05:10.120]   e ela vira para mim e fala na na na na na na na n├úo vou parar de tirar esse tro├ºo aqui n├úo.
+[00:05:10.120 --> 00:05:12.720]   E a├¡ ele pergunta mas por que?
+[00:05:12.720 --> 00:05:15.080]   E a pessoa fala porque eu me sinto mais segura.
+[00:05:15.080 --> 00:05:19.280]   E a├¡ ele olha para aquilo ele fala pera├¡ eu estava usando isso para tratar a depress├úo
+[00:05:19.280 --> 00:05:22.920]   n├úo estava usando isso para voc├¬ se sentir mais segura na sua reuni├úo de trabalho.
+[00:05:22.920 --> 00:05:27.200]   E a├¡ ele cria um conceito que depois coitado
+[00:05:27.200 --> 00:05:30.040]   ele ├® crucificado por causa desse conceito mas eu acho que ali
+[00:05:30.040 --> 00:05:33.600]   ele tinha raz├úo de pensar isso ele cria o conceito de psiquiatria cosm├®tica.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:05:33.800 --> 00:05:38.000]   Ele fala assim ser├í que a gente n├úo est├í correndo o risco de usar rem├®dios
+[00:05:38.000 --> 00:05:43.000]   para a depress├úo para outras fun├º├Áes que seriam tornar os seres humanos sobre humanos
+[00:05:43.000 --> 00:05:45.680]   tipo tratar a condi├º├úo humana de alguma forma.
+[00:05:45.680 --> 00:05:49.400]   Ent├úo ele levanta essa quest├úo em paralelo a essa ideia
+[00:05:49.400 --> 00:05:54.800]   de que a gente poderia tratar a condi├º├úo humana tem a expans├úo do uso dos antidepressivos
+[00:05:54.800 --> 00:05:58.440]   porque assim como ajudaram a definir o que a gente entende hoje por depress├úo
+[00:05:58.440 --> 00:06:01.680]   essas drogas t├¬m ajudado a fazer isso com outros transtornos.
+[00:06:01.680 --> 00:06:03.520]   A ansiedade por exemplo.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:06:03.520 --> 00:06:06.160]   Por que os inibidores seletivos mais do que rem├®dio para depress├úo
+[00:06:06.160 --> 00:06:07.960]   eles s├úo rem├®dios para ansiedade.
+[00:06:07.960 --> 00:06:11.040]   S├│ que a gente n├úo tinha essa ideia de ansiedade at├® ent├úo.
+[00:06:11.040 --> 00:06:14.000]   Ent├úo quando a gente come├ºa a ver esse efeito dos inibidores seletivos
+[00:06:14.000 --> 00:06:17.800]   da recaptura de serotonina a gente come├ºa a mudar o nosso olhar para a ansiedade.
+[00:06:17.800 --> 00:06:21.120]   Ent├úo a ansiedade que a gente considerava puramente reativa
+[00:06:21.120 --> 00:06:24.760]   e que a gente n├úo dava tanta bola como uma coisa patol├│gica.
+[00:06:24.760 --> 00:06:27.520]   A gente fala n├úo tem pessoas mais ansiosas pessoas mais ansiosas
+[00:06:27.520 --> 00:06:31.120]   mas a gente meio que tocava o sarrafo muito alto assim a gente considerava
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:06:31.360 --> 00:06:34.560]   muitas ansiedades completamente normais ali n├úo dava muita bola
+[00:06:34.560 --> 00:06:37.880]   ou entendia que aquilo era s├│ um ponto para ser trabalhado em psicoterapia
+[00:06:37.880 --> 00:06:42.440]   mas n├úo via muito que aquilo pudesse ter um lugar para uma medica├º├úo espec├¡fica.
+[00:06:42.440 --> 00:06:46.120]   S├│ que pelo efeito dos inibidores seletivos isso muda o nosso olhar
+[00:06:46.120 --> 00:06:48.160]   a gente come├ºa a olhar para a ansiedade de um outro jeito
+[00:06:48.160 --> 00:06:52.080]   come├ºa a dar muito mais classifica├º├Áes para transtornos de ansiedade
+[00:06:52.080 --> 00:06:53.880]   do que a gente tinha at├® ent├úo.
+[00:06:53.880 --> 00:06:57.440]   De certa forma o mesmo caminho que tinha acontecido com a depress├úo certo.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:06:57.760 --> 00:07:02.680]   De novo o medicamento definindo o transtorno certo ajudando a definir o transtorno.
+[00:07:02.680 --> 00:07:03.960]   Exatamente.
+[00:07:03.960 --> 00:07:13.000]   De qualquer forma os transtornos mentais cresceram bastante em pouco tempo.
+[00:07:13.000 --> 00:07:18.400]   O DSM-2 de 1968 continha 182 diagn├│sticos.
+[00:07:18.400 --> 00:07:22.120]   No 3 quando aconteceu a grande guinada rumo ├á medicina.
+[00:07:22.120 --> 00:07:24.840]   Esse n├║mero subiu para 265.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:07:25.440 --> 00:07:28.880]   Foram 83 novas possibilidades de diagn├│stico em 12 anos.
+[00:07:28.880 --> 00:07:31.760]   Quase 7 por ano.
+[00:07:31.760 --> 00:07:35.600]   Na ├║ltima edi├º├úo publicada em 2013 o DSM-5
+[00:07:35.600 --> 00:07:38.640]   s├úo mais de 300 possibilidades de diagn├│stico.
+[00:07:38.640 --> 00:07:45.880]   O aumento do n├║mero de categorias
+[00:07:45.880 --> 00:07:49.520]   diagn├│sticas ├® algo que s├│ acontece no campo da psiquiatria.
+[00:07:49.520 --> 00:07:53.520]   Quando voc├¬ pega qualquer outro campo da medicina isso n├úo acontece.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:07:53.680 --> 00:07:58.280]   Essa ├® a m├®dica pediatra e professora da Unicamp Maria Aparecida Mois├®s.
+[00:07:58.280 --> 00:08:00.880]   E n├úo ├® porque a psiquiatria se desenvolveu mais.
+[00:08:00.880 --> 00:08:03.680]   As outras ├íreas se desenvolveram muito.
+[00:08:03.680 --> 00:08:05.720]   Eu diria que at├® muito mais.
+[00:08:05.720 --> 00:08:08.760]   A Maria Aparecida Mois├®s me explicou que o interesse dela pela psiquiatria
+[00:08:08.760 --> 00:08:11.120]   vem do come├ºo da cl├¡nica m├®dica.
+[00:08:11.120 --> 00:08:14.240]   Fiz a resid├¬ncia at├® 75 na USP.
+[00:08:14.240 --> 00:08:17.280]   Logo depois eu fui contratada na USP
+[00:08:17.280 --> 00:08:22.320]   para trabalhar no Centro de Sa├║de Escola Butantan na pediatria como assistente.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:08:22.800 --> 00:08:24.960]   E assim que ela come├ºou a atender crian├ºas
+[00:08:24.960 --> 00:08:27.920]   ela percebeu que as molestias que mais apoquentavam os pequenos
+[00:08:27.920 --> 00:08:29.640]   n├úo vinham do corpo.
+[00:08:29.640 --> 00:08:32.800]   E l├í a gente recebia muito encaminhamento da escola
+[00:08:32.800 --> 00:08:37.360]   e tamb├®m de fam├¡lias que procuravam j├í porque outros profissionais
+[00:08:37.360 --> 00:08:41.120]   outras pessoas tinham falado que as crian├ºas tinham aspas
+[00:08:41.120 --> 00:08:45.360]   problemas de aprendizagem e/ou de comportamento.
+[00:08:45.360 --> 00:08:48.240]   Quer dizer n├úo ├® um fen├┤meno exatamente recente n├®.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:08:48.640 --> 00:08:52.880]   N├úo n├úo ├® o que tem de recente ├® uma um crescimento
+[00:08:52.880 --> 00:08:55.160]   mais do que logaritmico n├®.
+[00:08:55.160 --> 00:08:57.720]   Um levantamento recente feito pelo Minist├®rio da Sa├║de
+[00:08:57.720 --> 00:09:02.440]   mostrou que em 10 anos os atendimentos relacionados a transtornos de ansiedade
+[00:09:02.440 --> 00:09:08.920]   no SUS aumentaram 1575 por cento entre crian├ºas de 10 a 14 anos.
+[00:09:08.920 --> 00:09:11.800]   Entre os adolescentes de 15 a 19 anos
+[00:09:11.800 --> 00:09:16.800]   o avan├ºo foi maior de 4.423 por cento.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:09:18.640 --> 00:09:31.240]   A Associa├º├úo Americana de Psiquiatria n├úo revela n├║meros
+[00:09:31.240 --> 00:09:34.600]   mas as ├║ltimas edi├º├Áes do DSM s├úo best sellers.
+[00:09:34.600 --> 00:09:38.520]   Estima-se que o DSM 4 tenha vendido mais de um milh├úo de exemplares.
+[00:09:38.520 --> 00:09:42.240]   Boa parte da receita da associa├º├úo vem dessas vendas.
+[00:09:42.240 --> 00:09:44.640]   Durante a pandemia de Covid
+[00:09:44.640 --> 00:09:48.520]   per├¡odo em que segundo a ONU os transtornos mentais aumentaram 25%
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:09:49.120 --> 00:09:52.480]   o DSM 5 se tornou o livro mais vendido da Amazon.
+[00:09:52.480 --> 00:09:55.440]   No artigo do qual eu j├í falei no epis├│dio anterior
+[00:09:55.440 --> 00:09:58.280]   em que a m├®dica americana M├írcia Angel faz um grande ensaio
+[00:09:58.280 --> 00:09:59.920]   sobre o suposto abuso de medicamentos.
+==== [chunk_002] ====
+whisper_vitisai_encode: Vitis AI model inference completed.
+
+[00:00:00.000 --> 00:00:05.820]   diagn├│sticos, ela traz uma s├®rie de cr├¡ticas ao DSM. Diz, por exemplo, que ao contr├írio
+[00:00:05.820 --> 00:00:09.960]   do que costuma acontecer com as publica├º├Áes da ├írea m├®dica, o manual dos psiquiatras
+[00:00:09.960 --> 00:00:15.520]   e psic├│logos n├úo traz estudos de refer├¬ncia que embasem as afirma├º├Áes que est├úo ali.
+[00:00:15.520 --> 00:00:20.720]   Al├®m disso, tem uma quest├úo complicada que envolve conflitos de interesse. Porque mais
+[00:00:20.720 --> 00:00:25.840]   possibilidades de diagn├│stico podem resultar em mais possibilidades de prescri├º├Áes, o
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:00:25.840 --> 00:00:30.080]   que pode resultar em mais dinheiro para a ind├║stria farmac├¬utica. O problema ├® que
+[00:00:30.080 --> 00:00:34.960]   entre as pessoas que decidem como esses diagn├│sticos v├úo ser padronizados em n├¡vel global, tem
+[00:00:34.960 --> 00:00:38.120]   muita gente muito pr├│xima da ind├║stria farmac├¬utica.
+[00:00:38.120 --> 00:00:48.400]   Em 2024, o British Journal of Medicine publicou um estudo mostrando que quase 60% dos m├®dicos
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:00:48.400 --> 00:00:56.000]   que desenvolveram o DSM-5 receberam dinheiro da ind├║stria farmac├¬utica. No estudo, eles
+[00:00:56.000 --> 00:01:01.480]   detalham que foram 14 milh├Áes de d├│lares gastos em 4 anos, principalmente com viagens,
+[00:01:01.480 --> 00:01:07.800]   refei├º├Áes e servi├ºos de consultoria. Como s├úo 92 m├®dicos, dariam um total de pouco
+[00:01:07.800 --> 00:01:13.780]   mais de 38 mil d├│lares por ano para cada m├®dico. O que, por um lado, n├úo ├® l├í muito
+[00:01:13.780 --> 00:01:18.160]   dinheiro. Ainda mais quando a gente considera que psiquiatras de destaque costumam ser muito
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:01:18.160 --> 00:01:23.600]   bem pagos. Por outro, mostra que existe uma rela├º├úo de proximidade question├ível do ponto
+[00:01:23.600 --> 00:01:24.600]   de vista ├®tico.
+[00:01:24.600 --> 00:01:33.560]   E o conflito de interesse, vale dizer, n├úo ├® exclusividade do DSM-5. Dos 170 colaboradores
+[00:01:33.560 --> 00:01:47.000]   da vers├úo anterior, 95 tinham algum v├¡nculo financeiro com a ind├║stria farmac├¬utica.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:01:47.000 --> 00:01:51.880]   L├í no come├ºo do epis├│dio anterior, voc├¬ escutou uma fala r├ípida da Dayana Rosa, especialista
+[00:01:51.880 --> 00:01:56.840]   em sa├║de mental coletiva do IEPS, instituto que fez uma pesquisa sobre o aumento da prescri├º├úo
+[00:01:56.840 --> 00:02:01.480]   de drogas psicoativas. Na nossa conversa, a Dayana me explicou que essa entidade onde
+[00:02:01.480 --> 00:02:06.280]   ela trabalha, o Instituto de Estudos para Pol├¡ticas de Sa├║de, atua basicamente com
+[00:02:06.280 --> 00:02:10.920]   o que a gente poderia chamar de "lob do bem". Quando estava produzindo esse epis├│dio, por
+[00:02:10.920 --> 00:02:15.920]   exemplo, eles estavam trabalhando para que o governo regulamentasse a chamada lei FELCA,
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:02:15.920 --> 00:02:19.680]   que tem o objetivo de coibir a adultiza├º├úo e a exposi├º├úo de crian├ºas e adolescentes
+[00:02:19.680 --> 00:02:20.680]   nas m├¡dias sociais.
+[00:02:20.680 --> 00:02:26.400]   Uma vez que a gente aprovou uma lei, seja a lei FELCA ou a lei de sa├║de mental na escola,
+[00:02:26.400 --> 00:02:33.320]   o IEPS, com o seu lobby do bem, vai estimular os atores do poder executivo a tirarem essa
+[00:02:33.320 --> 00:02:34.320]   lei do papel.
+[00:02:34.320 --> 00:02:39.680]   Vai procurar o secret├írio, vai procurar ministro, tomar caf├®, almo├ºar, bater na porta, falar
+[00:02:39.680 --> 00:02:44.520]   "olha, est├í aqui, a lei est├í aqui", por a├¡, n├®? Basicamente a gente joga o saco do caboclo
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:02:44.520 --> 00:02:46.360]   at├® a linha resolver isso, mano.
+[00:02:46.360 --> 00:02:49.440]   Exatamente, a gente enche muito saco de todo mundo, ├® isso.
+[00:02:49.440 --> 00:02:54.080]   E a├¡, nesse trabalho, a Dayana Rosa presta aten├º├úo em tudo o que tem de legisla├º├úo
+[00:02:54.080 --> 00:03:00.040]   tramitando na ├írea dela, que ├® a sa├║de mental. E quando falou sobre isso, ela abriu uma portinha
+[00:03:00.040 --> 00:03:06.520]   toda nova na nossa investiga├º├úo, a portinha do acesso a direitos especiais. A Dayana me
+[00:03:06.520 --> 00:03:11.400]   contou que tamb├®m abriu essa portinha por acaso, quando percebeu que 44% dos projetos
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:03:11.400 --> 00:03:16.880]   da ├írea de sa├║de mental da C├ómara dos Deputados, na ├║ltima legislatura, tinham a ver com autismo.
+[00:03:16.880 --> 00:03:20.600]   E isso deixou ela com uma pulguinha atr├ís da orelha.
+[00:03:20.600 --> 00:03:26.120]   Porque autismo n├úo necessariamente ├® uma quest├úo de sa├║de mental, n├®? Uma pessoa
+[00:03:26.120 --> 00:03:29.560]   autista, ela pode estar em sofrimento, mas pode n├úo estar em sofrimento tamb├®m, ela
+[00:03:29.560 --> 00:03:32.640]   pode ter uma quest├úo de sa├║de mental, mas pode n├úo ter tamb├®m.
+[00:03:32.640 --> 00:03:37.040]   Diante disso, eles foram olhar com mais cuidado os projetos de lei sobre autismo.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:03:37.040 --> 00:03:42.240]   No que que os parlamentares estavam legislando sobre isso? ├ë sobretudo direito, acesso
+[00:03:42.240 --> 00:03:48.160]   a direitos, a benef├¡cios, que ├® uma busca leg├¡tima tamb├®m. Mas a gente precisa descer
+[00:03:48.160 --> 00:03:53.400]   um pouquinho mais tamb├®m nessa camada para conseguir entender o contexto que as pessoas
+[00:03:53.400 --> 00:03:58.200]   est├úo inseridas, que ela precisa de um diagn├│stico, de um laudo para acessar direitos. Isso ├®
+[00:03:58.200 --> 00:04:03.880]   muito grave, porque se essa moda pega, vai faltar a diagn├│stica. Mentira que isso nunca
+[00:04:03.880 --> 00:04:04.880]   vai faltar.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:04:04.880 --> 00:04:10.120]   A gente pode pensar numa ind├║stria de laudos que v├úo falar que voc├¬ ├® autista para voc├¬
+[00:04:10.120 --> 00:04:16.120]   ter acesso a algum tipo de servi├ºo, algum tipo... ├® isso que voc├¬ est├í me falando?
+[00:04:16.120 --> 00:04:22.400]   Sim, pode ter essa utilidade. Ter um laudo hoje pode ser instrumentalizado para acesso
+[00:04:22.400 --> 00:04:23.400]   a direitos.
+[00:04:23.400 --> 00:04:24.960]   Que tipo de direito?
+[00:04:24.960 --> 00:04:30.560]   Pegando como exemplo a pessoa autista, n├®? Hoje ├® comum voc├¬ at├® ver caixa preferencial,
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:04:30.560 --> 00:04:35.920]   um exemplo bem pr├ítico assim, de nossas vidas. Tinha projetos de leito, mas que previa gratuidade
+[00:04:35.920 --> 00:04:42.680]   de pedagem para a pessoa autista. Tem muita coisa. Eu n├úo consigo falar s├®rio nessa.
+[00:04:42.680 --> 00:04:48.240]   O gratileiro, eu vou falar o brasileiro, mas ├® esse esp├¡rito de vira-lata, n├®? O ser
+[00:04:48.240 --> 00:04:55.680]   humano realmente tem o dom, n├®? O cara vai legislar para pedir direito ao acesso gratuito
+[00:04:55.680 --> 00:04:58.560]   de pedagem para a pessoa autista, ├® isso.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:04:58.560 --> 00:05:03.760]   ├ë importante frisar tamb├®m que isso ├® um absurdo e que prejudica a pessoa que realmente
+[00:05:03.760 --> 00:05:08.840]   precisa, sabe? Tem pessoas sendo prejudicadas por isso. E ├® dessas pessoas que a gente
+[00:05:08.840 --> 00:05:15.040]   tem que lembrar. Existe diagn├│stico, existe transtorno, existem pessoas com transtorno,
+[00:05:15.040 --> 00:05:21.640]   mas se a gente eleva isso a um grau de que todos temos alguma coisa, a gente vai acabar
+[00:05:21.640 --> 00:05:24.720]   prejudicando quem realmente precisa de assist├¬ncia.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:05:24.720 --> 00:05:28.920]   E assim a gente pode voltar ├á quest├úo de quem realmente precisa de assist├¬ncia e de
+[00:05:28.920 --> 00:05:33.000]   como isso est├í definido. Porque se voc├¬ ficou assustada com os conflitos de interesse
+[00:05:33.000 --> 00:05:39.520]   por tr├ís do DSM, espera at├® eu te falar sobre os diagn├│sticos em troca de likes.
+[00:05:39.520 --> 00:05:46.120]   Tem sido muito comum, por exemplo, se a gente vai analisar TikTok, Instagram, v├¡deos curtos
+[00:05:46.120 --> 00:05:51.440]   em que voc├¬ consegue, por exemplo, se auto-diagnosificar com TDAH, com autismo.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:05:51.440 --> 00:05:56.560]   5 comportamentos t├¡picos de uma pessoa bipolar. Pega papel e caneta que a gente vai fazer
+[00:05:56.560 --> 00:06:01.120]   uma avalia├º├úo de triagem para TDAH. Como ├® que voc├¬ vai saber se voc├¬ tem depress├úo?
+[00:06:01.120 --> 00:06:05.920]   Abaixa um dedo para cada resposta assim que voc├¬ responder e veja se voc├¬ pode ter transtorno
+[00:06:05.920 --> 00:06:06.920]   depressivo.
+[00:06:06.920 --> 00:06:11.440]   Esse aqui ├® o ASRS-18, um question├írio simples que pode ser respondido em pouquinho.
+[00:06:11.440 --> 00:06:13.440]   Perso├º├úo de imagem corporal, agressividade, dermatotilomania, quer ficar cutucando a pele,
+[00:06:13.440 --> 00:06:16.360]   perfeccionismo, estresse, sobrecaga, sensibilidade, rejei├º├úo...
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:06:16.360 --> 00:06:23.040]   ├ë essa banaliza├º├úo que a gente fica muito atento, porque quando a gente fala de medicaliza├º├úo
+[00:06:23.040 --> 00:06:29.260]   ├® o ato da medicina, do poder m├®dico, como diria o Foucault, ele abrangeia outras ├íreas
+[00:06:29.260 --> 00:06:37.760]   da vida que n├úo aquela restrita ├á psiquiatria, ao medicamento, ao sintoma e ao tratamento.
+[00:06:37.760 --> 00:06:44.640]   Ou seja, voc├¬ coloca condi├º├Áes cl├¡nicas em algo que ├® normal da vida.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:06:44.640 --> 00:06:48.920]   Divulgar informa├º├úo n├úo ├® ruim, as pessoas t├¬m acesso a informa├º├úo n├úo ├® ruim, mas
+[00:06:48.920 --> 00:06:53.520]   quando a gente simplifica demais a informa├º├úo, as pessoas come├ºam a fazer associa├º├Áes
+[00:06:53.520 --> 00:07:00.560]   muito reducionistas, elas come├ºam a enxergar qualquer ang├║stia como um sintoma de ansiedade
+[00:07:00.560 --> 00:07:04.120]   e come├ºam a dizer "ah, ent├úo as outras pessoas n├úo sentem isso como eu sinto, ent├úo tem
+[00:07:04.120 --> 00:07:08.040]   algo errado comigo" e v├úo na linha de "eu preciso procurar um m├®dico porque tem algo
+[00:07:08.040 --> 00:07:09.040]   errado comigo".
+[00:07:09.040 --> 00:07:13.960]   Sendo que em outros momentos, talvez elas falassem "esse neg├│cio que eu sinto aqui,
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:07:13.960 --> 00:07:18.120]   que eu sinto desde que eu me lembro por gente, que ├® porque eu estou chateado, porque eu
+[00:07:18.120 --> 00:07:23.400]   estou triste, porque eu estou frustrado, sei l├í", ent├úo isso come├ºa a mudar a atitude
+[00:07:23.400 --> 00:07:28.600]   das pessoas, que obviamente n├úo s├úo culpadas, elas est├úo s├│ ali reagindo a um contexto.
+[00:07:28.600 --> 00:07:39.960]   ├ë normal a gente ficar chateado, a gente ficar triste, ├® normal a gente ficar desanimado,
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:07:39.960 --> 00:07:48.360]   mas ├ás vezes em um contexto em que as informa├º├Áes est├úo vindo sem evid├¬ncias, de forma muito
+[00:07:48.360 --> 00:07:54.320]   simplificada, isso se torna prejudicial, ent├úo a gente come├ºa a achar que pra tudo na vida
+[00:07:54.320 --> 00:08:01.640]   tem rem├®dio, literalmente, s├│ que n├úo tem, e isso pode inclusive piorar a sa├║de mental
+[00:08:01.640 --> 00:08:02.640]   de algu├®m.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:08:02.640 --> 00:08:11.500]   Quando eu perguntei sobre isso para a pediatra Maria Aparecida Mois├®s, ela me falou sobre
+[00:08:11.500 --> 00:08:16.160]   um dos transtornos cujos diagn├│sticos mais crescem entre crian├ºas e adolescentes.
+[00:08:16.160 --> 00:08:19.200]   Como ├® que ├® feito o diagn├│stico de Tdh?
+[00:08:19.200 --> 00:08:28.000]   ├ë de uma subjetividade total que nos apresenta como se fosse objetivo, vejam, o Tdh ├® apresentado
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:08:28.000 --> 00:08:34.600]   n├úo s├│ como se fosse biol├│gico, que n├úo tem essa comprova├º├úo, ali├ís o diagn├│stico
+[00:08:34.600 --> 00:08:39.960]   de Tdh, essa categoria de diagn├│stico de Tdh, ├® questionada no mundo todo, n├úo sou
+[00:08:39.960 --> 00:08:41.960]   eu que questiono.
+[00:08:41.960 --> 00:08:47.760]   Profissionais da psiquiatria no mundo todo questionam esses diagn├│sticos, porque eles
+[00:08:47.760 --> 00:08:57.880]   surgem sem uma sustenta├º├úo, inclusive epidemiol├│gica e no campo ps├¡, esse destornos dos outros.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:08:57.880 --> 00:09:04.860]   Mas o diagn├│stico de Tdh ├® feito com base numa observa├º├úo a partir de um padr├úo meu,
+[00:09:04.860 --> 00:09:10.360]   o que eu espero que uma crian├ºa seja, e de basicamente um question├írio.
+[00:09:10.360 --> 00:09:16.360]   Se a gente pegar os crit├®rios diagn├│sticos, entre aspas, para esses transtornos mentais
+[00:09:16.360 --> 00:09:25.080]   mais em voga, Tdh, teia, transtorno opositor desafiante, quando voc├¬ olha aquelas perguntas,
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:09:25.080 --> 00:09:31.880]   voc├¬ fala "vamos, pera├¡, eu me encaixo em todos", porque eles s├úo muito vagos, imprecisos
+[00:09:31.880 --> 00:09:40.440]   e eu at├® diria mal-redigidos, e vou mais, Tom├ís, n├úo s├úo vagos, imprecisos, frouxos
+[00:09:40.440 --> 00:09:49.600]   e mal-redigidos por incompet├¬ncia, ├® por compet├¬ncia, quanto mais vago, proxo, impreciso
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:09:49.600 --> 00:09:59.920]   de mal-redigido, mais pessoas se enquadrem, e a├¡ voc├¬ tem esse boom de diagn├│stico.
+==== [chunk_003] ====
+whisper_vitisai_encode: Vitis AI model inference completed.
+
+[00:00:00.000 --> 00:00:07.520]   discursos que ├® divulgado pela m├¡dia, ├® divulgado pelas associa├º├Áes de profissionais, por exemplo,
+[00:00:07.520 --> 00:00:14.320]   de psiquiatria no Brasil, de TDH, de dislexia, divulgam isso e as pessoas s├úo capturadas por
+[00:00:14.320 --> 00:00:22.600]   isso. Os pais s├úo capturados por esses discursos e acreditam piamente que est├úo fazendo melhor para
+[00:00:22.600 --> 00:00:27.920]   seus filhos, porque assim, se voc├¬ n├úo tratar o TDH do seu filho, ele vai ser um delinquente.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:00:27.920 --> 00:00:37.400]   N├úo tem esse dado? Onde tem isso? E a├¡ voc├¬ entende, por exemplo, um dado do Instituto
+[00:00:37.400 --> 00:00:44.040]   Nacional de Sa├║de Mental dos Estados Unidos, que diz que 46% dos estadunidenses preenchem
+[00:00:44.040 --> 00:00:47.160]   crit├®rios diagn├│sticos de transtorno mental. N├úo, pera├¡, alguma coisa est├í errada.
+[00:00:47.160 --> 00:00:57.160]   Esses diagn├│sticos s├úo cada vez mais precoces e a introdu├º├úo de subst├óncias psicoativas ├®
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:00:57.160 --> 00:01:03.440]   cada vez mais cedo. Se voc├¬ olha qualquer coisa sobre Ritalina, ├® assim, n├úo use antes de 6 anos.
+[00:01:03.440 --> 00:01:09.480]   Ritalina ├® um dos nomes comerciais do cloridrato de metilfinidato. ├ë um estimulante do sistema
+[00:01:09.480 --> 00:01:15.640]   nervoso central indicado para o tratamento de TDH e narcolepsia. Atua aumentando a tens├úo e reduzindo
+[00:01:15.640 --> 00:01:22.040]   a impulsividade. O metilfinidato tamb├®m ├® vendido sob o sugestivo nome comercial de concerta.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:01:22.040 --> 00:01:28.480]   Est├í na bula, n├úo usar antes de 6 anos. Voc├¬ tem crian├ºas de 3, 4 anos recebendo. Voc├¬ tem subst├óncias,
+[00:01:28.480 --> 00:01:35.880]   por exemplo, antipsic├│ticos como a risperidona, que at├® pouco tempo atr├ís era usado em surtos
+[00:01:35.880 --> 00:01:43.800]   graves de pacientes com esquizofrenia, por per├¡odo curto. Hoje ├® usado em crian├ºa de pr├®-escolar
+[00:01:43.800 --> 00:01:50.600]   com diagn├│stico de opositor desafiante. Est├í errado, n├úo pode. Voc├¬ tem um diagn├│stico hoje de
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:01:50.600 --> 00:01:58.160]   crian├ºas menos de dois anos com diagn├│stico de tempo cognitivo lento. ├ë desesperador.
+[00:01:58.160 --> 00:02:04.320]   E o mais desesperador nisso tudo ├® que quando a gente olha para os dados globais a gente percebe
+[00:02:04.320 --> 00:02:10.400]   que o problema s├│ piora. Eu conversei sobre isso com a Juliana Berodinis. Muitos dos cr├¡ticos da
+[00:02:10.400 --> 00:02:14.720]   hipermedicaliza├º├úo dizem isso e ├® verdade. Eles dizem "bom, se a gente tem cada vez mais depress├úo
+[00:02:14.720 --> 00:02:19.280]   e ansiedade, a gente nunca usou tanto antidepressivo e ansiol├¡tico, como ├® que a gente pode ter cada
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:02:19.280 --> 00:02:23.600]   vez mais. Se os sem├®dios efetivamente estivessem tratando essas doen├ºas, elas deviam diminuir e n├úo
+[00:02:23.600 --> 00:02:28.040]   aumentar. Os antidepressivos n├úo est├úo tratando depress├úo, porque n├úo est├úo curando depress├úo
+[00:02:28.040 --> 00:02:33.040]   pelo menos. N├úo que eles n├úo sirvam para nada, n├úo que eles n├úo tratem alguns sintomas e n├úo que
+[00:02:33.040 --> 00:02:37.480]   as pessoas n├úo melhorem muito com antidepressivo. As pessoas beneficiam muito. Por isso que eu acho
+[00:02:37.480 --> 00:02:43.000]   que a gente n├úo pode demonizar essas medica├º├Áes. Inclusive tem vidas que s├úo salvas, certo? Porque
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:02:43.000 --> 00:02:50.680]   ent├úo a gente sabe que tem uma rela├º├úo de depress├úo com suic├¡dio, que eu acho que a gente n├úo pode
+[00:02:50.680 --> 00:02:54.320]   deixar de falar disso. Quer dizer, ├ás vezes est├í salvando a vida de uma pessoa considerando um
+[00:02:54.320 --> 00:02:59.480]   medicamento para ela, certo? Sim, essas medica├º├Áes psiqui├ítricas bem indicadas, elas podem ter efeitos
+[00:02:59.480 --> 00:03:04.760]   muito ben├®ficos. S├│ que uma medica├º├úo psiqui├ítrica bem indicada, ela n├úo ├® uma indica├º├úo no v├ícuo,
+[00:03:04.760 --> 00:03:10.120]   n├úo ├® um chat de EPT dizendo que voc├¬ precisa tomar antidepressivo. Ela existe dentro de um contexto.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:03:10.120 --> 00:03:16.120]   Ent├úo voc├¬ vai numa pessoa que te escuta, que ouve a sua hist├│ria, que te explica algumas coisas,
+[00:03:16.120 --> 00:03:21.920]   que fala que algumas coisas s├úo perfeitamente normais, outras nem tanto. Ent├úo melhora ali a sua
+[00:03:21.920 --> 00:03:25.000]   rela├º├úo com seus sintomas, porque coisas que voc├¬ achava que te faziam completamente louco,
+[00:03:25.000 --> 00:03:29.920]   voc├¬ descobre que n├úo, n├®? Todos os exemplos assim do que pode acontecer numa intera├º├úo. No meio
+[00:03:29.920 --> 00:03:34.240]   disso vem uma indica├º├úo de um rem├®dio que a pessoa te explica exatamente o que faz, como,
+[00:03:34.240 --> 00:03:38.160]   o que esperar. Voc├¬ vai ter que testar ali para ver se aquilo vai acontecer com voc├¬ ou n├úo,
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:03:38.160 --> 00:03:42.400]   n├úo ├® necessariamente o que a gente espera que acontece, mas voc├¬ t├í ali criando um v├¡nculo,
+[00:03:42.400 --> 00:03:46.880]   uma rela├º├úo com aquela pessoa e o rem├®dio t├í ali no meio. Isso pode ser extremamente ben├®fico.
+[00:03:46.880 --> 00:03:51.920]   Uma coisa completamente diferente ├® um antidepressivo que cai do c├®u, que a pessoa
+[00:03:51.920 --> 00:03:54.720]   n├úo sabe de onde, n├úo tem rela├º├úo com quem prescreveu, a├¡ ├® outra hist├│ria.
+[00:03:54.720 --> 00:04:04.000]   J├í faz mais de duas d├®cadas que eu sofro com ins├┤nia.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:04:06.480 --> 00:04:13.360]   Nos momentos de crise eu costumava passar a noite sem dormir, literalmente. Uma noite totalmente
+[00:04:13.360 --> 00:04:20.520]   ins├┤nia, uma noite dormindo por exaust├úo completa. Ao longo dos anos eu tentei v├írias coisas,
+[00:04:20.520 --> 00:04:25.680]   fiz medita├º├úo, acupuntura, segui um tal de treinamento aut├│geno com t├®cnicas de
+[00:04:25.680 --> 00:04:29.800]   respira├º├úo e relaxamento, roubei benzo de azebina e costarja preta da minha av├│,
+[00:04:29.800 --> 00:04:34.960]   que funcionavam mas me deixavam sonado no dia seguinte e entornei doses consider├íveis de
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:04:34.960 --> 00:04:41.680]   ├ígua com suco de laranja ou de whisky com leite. Esse ├║ltimo tinha vantagem de servir como um
+[00:04:41.680 --> 00:04:48.880]   jantar nas noites em que eu trabalhava at├® tarde. E at├® funcionava, mas no dia seguinte eu tava
+[00:04:48.880 --> 00:04:54.680]   de ressaca e o alcoolismo t├í muito fora de moda pra merecer meu flerte. A├¡ um dia,
+[00:04:54.680 --> 00:04:58.600]   quando eu trabalhava na roda viva da TV Cultura, num desses per├¡odos de crise,
+[00:04:58.600 --> 00:05:04.240]   eu resmunguei das minhas agruras com a L├║cia, nossa coordenadora de produ├º├úo. Disse que n├úo
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:05:04.240 --> 00:05:11.160]   gostava mais viver nesse semi-sonho grudento que ├® a vida quando se tem ins├┤nia. A L├║cia era uma
+[00:05:11.160 --> 00:05:17.400]   produtora de TV experiente e pr├ítica, do tipo que resolve as coisas. Em resposta ├ás minhas lam├║rias,
+[00:05:17.400 --> 00:05:23.600]   ela me deu um telefone, o telefone de um psiquiatra, um psiquiatra do tipo pr├ítico.
+[00:05:23.600 --> 00:05:30.720]   Alguns dias depois, eu tava desfrutando do estranho sono qu├¡mico induzido pelo
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:05:30.720 --> 00:05:35.640]   tarato de zoopiden, um son├¡fero hipn├│tico conhecido pelo nome comercial de Pats,
+[00:05:35.640 --> 00:05:42.400]   ou Steelnox, ou Ambien nos Estados Unidos. Mas eu n├úo quero te falar sobre esse medicamento hoje,
+[00:05:42.400 --> 00:05:50.400]   inclusive porque a gente j├í fez todo um epis├│dio sobre ele. Epis├│dio 59, sonhos de zoopiden. Hoje
+[00:05:50.400 --> 00:05:57.520]   eu quero te falar sobre o m├®dico que me receitou esse medicamento. Porque quando eu comecei a apurar
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:05:57.520 --> 00:06:02.480]   esse epis├│dio, eu achei duas receitas antigas dele que estavam havia mais de dois anos no
+[00:06:02.480 --> 00:06:07.840]   porta-luvas do meu carro. Era um produto da minha ├║ltima consulta com esse m├®dico feita em agosto
+[00:06:07.840 --> 00:06:15.760]   de 2023. Duas receitas de medicamentos controlados que eu nunca tive coragem de usar. E mais,
+[00:06:15.760 --> 00:06:20.880]   eu achei o tal m├®dico na rede credenciada do meu conv├¬nio, eu marquei uma consulta online com o
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:06:20.880 --> 00:06:40.080]   m├®dico e eu gravei o ├íudio dessa consulta. Fala, doutor. Tudo bom? T├í me ouvindo? Agora sim.
+[00:06:40.080 --> 00:06:44.320]   Eu n├úo vou falar o nome dele aqui para n├úo pressunificar um problema que ├® coletivo.
+[00:06:44.320 --> 00:06:49.880]   Pois n├úo, Thomas. Pelo mesmo motivo, a voz dele foi modificada digitalmente para impedir o
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:06:49.880 --> 00:06:56.520]   medicamento, ainda que vale ressaltar, ele n├úo esteja fazendo nada de ilegal. Talvez anti├®tico,
+[00:06:56.520 --> 00:07:04.120]   mas n├úo ilegal. Doutor, eu estou com um problema a├¡ que me ├® recorrente ao longo das ├║ltimas d├®cadas,
+[00:07:04.120 --> 00:07:12.680]   talvez, que ├® a ins├┤nia. Uma quest├úo que vai e volta. Eu basicamente narrei para ele o meu problema,
+[00:07:12.680 --> 00:07:19.400]   mentindo descaradamente sobre estar numa fase pior. Na verdade, nos ├║ltimos tempos,
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:07:19.400 --> 00:07:25.960]   as noites sem claro t├¬m se tornado cada vez mais raras e eu sei exatamente porque. Mas enfim,
+[00:07:25.960 --> 00:07:31.000]   quem nunca mentiu para um psiquiatra que atira a primeira pedra. Quando estou em momentos mais
+[00:07:31.000 --> 00:07:37.960]   tensos da minha vida, o que acontece ├® que come├ºa a ficar uma coisa de uma noite dorme, outra noite
+[00:07:37.960 --> 00:07:44.200]   n├úo dorme, n├®? Ou dorme muito pouco, dorme tipo duas horas e a├¡ acorda muito cedo, n├úo consigo
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:07:44.200 --> 00:07:51.360]   dormir ou, enfim, ├® um sono que ├® muito insuficiente, assim. Que tipo de compromissos que voc├¬ por
+[00:07:51.360 --> 00:07:58.440]   ventura tem no dia seguinte que voc├¬, em fun├º├úo disso, n├úo consegue pegar a som? Olha, ├® curioso
+[00:07:58.440 --> 00:08:05.200]   que varia mais com rela├º├úo ao hor├írio do que ao tipo de compromisso. Claro que se ├® uma coisa um
+[00:08:05.200 --> 00:08:10.520]   pouco mais tensa, se eu tenho, ├ás vezes, uma apresenta├º├úo, algum trabalho que exija mais mentalmente ou
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:08:10.520 --> 00:08:15.240]   um dia muito cheio. Quando eu terminei de explicar a minha condi├º├úo, um psiquiatra da L├║cia me
+[00:08:15.240 --> 00:08:21.920]   surpreendeu, mostrou que fazia algum tipo de acompanhamento cl├¡nico dos pacientes. Voc├¬
+[00:08:21.920 --> 00:08:30.760]   fez uma consulta comigo em 2023, em dois medicamentos, voc├¬ chegou, eu estou a falar? Aqui eu disse a
+[00:08:30.760 --> 00:08:36.080]   verdade, que a minha estona tinha arrefecido e que na ocasi├úo tinha achado o tratamento proposto um
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:08:36.080 --> 00:08:42.280]   pouco excessivo. Eu fiquei um pouco com o p├® atr├ís e deu uma melhorada naquele momento, fiquei
+[00:08:42.280 --> 00:08:47.480]   numa fase melhor, assim, e a├¡ n├úo tomei e segui a vida. Ele perguntou se eu tinha procurado outro
+[00:08:47.480 --> 00:08:51.760]   m├®dico, eu disse que n├úo, e que vez ou outra, quando sei que o bicho vai pegar no dia seguinte,
+[00:08:51.760 --> 00:08:58.080]   eu mando para dentro cinco miligramas de Zolpidem de forma preventiva. E a├¡, em nome do jornalismo,
+[00:08:58.080 --> 00:09:03.480]   eu voltei a mentira inicial. Disse que isso n├úo estava funcionando e que eu estava numa crise das
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:09:03.480 --> 00:09:09.440]   d├║vidas. Ele ajustou os ├│culos no rosto magro e eu percebi que a nossa aventura estava pr├│xima
+[00:09:09.440 --> 00:09:16.600]   do "finalmente". Sim. Olha, Tom├ís, eu estou tendo a mesma impress├úo que eu tive l├í na sua primeira
+[00:09:16.600 --> 00:09:24.280]   consulta em 2023, que a sua ins├┤nia ├® por conta de ansiedade, porque ins├┤nia n├úo ├® uma alfatologia
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:09:24.280 --> 00:09:33.240]   de si. Ins├┤nia ├® reflexo de ansiedade. Eu vejo que voc├¬ tem a├¡ uma condi├º├úo de ansiedade que eu
+[00:09:33.240 --> 00:09:40.160]   poderia chamar em transtorno de ansiedade generalizada. Pumba. Tava l├í o diagn├│stico.
+[00:09:40.160 --> 00:09:47.360]   Transtorno de ansiedade generalizada. Eu tinha acabado de deixar o seleto grupo das pessoas
+[00:09:47.360 --> 00:09:52.080]   saud├íveis, do qual eu descobri que por conta dessa apura├º├úo fazem parte menos de 5% dos humanos.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:09:52.080 --> 00:10:00.080]   Agora eu era uma pessoa com um transtorno para chamar de meu. O psiquiatra da L├║cia
+==== [chunk_004] ====
+whisper_vitisai_encode: Vitis AI model inference completed.
+
+[00:00:00.000 --> 00:00:04.360]   Tinha levado cinco minutos e quatro segundos para me oferecer esse diagn├│stico.
+[00:00:04.360 --> 00:00:09.340]   E com ele veio o tratamento.
+[00:00:09.340 --> 00:00:14.680]   Esse transtorno de ansiedade generalizada se trata praticamente dos antidepressivos.
+[00:00:14.680 --> 00:00:20.080]   Por isso que na ├®poca eu te prescrevia um antidepressivo e prescrevi tamb├®m um rem├®dio para dormir.
+[00:00:20.080 --> 00:00:25.060]   Na consulta anterior, ele tinha prescrito o FRONTAL, que ├® o nome comercial do ALPRAZOLAM
+[00:00:25.060 --> 00:00:29.860]   e ├® indicado para tratar transtornos de ansiedade, tens├úo, ins├┤nia e crises de p├ónico
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:00:29.860 --> 00:00:36.360]   e RECONTER, que ├® um antidepressivo da famosa classe dos inibidores seletivos de recapta├º├úo de serotonina.
+[00:00:36.360 --> 00:00:45.080]   Seguindo o ideal, agora, se voc├¬ n├úo quiser tomar, porque ele vai ter que tomar o medicamento todo dia por uns tr├¬s, quatro, cinco, seis meses.
+[00:00:45.080 --> 00:00:54.880]   Se voc├¬ n├úo quiser tomar um medicamento diariamente, eu posso lhe prescrever um outro medicamento, que tamb├®m ├® antidepressivo.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:00:54.880 --> 00:01:05.600]   Mas que numa tosse bem pequena, ele faz apenas efeito sobre o sono, que tem o efeito colateral de dar solol├¬ncia.
+[00:01:05.600 --> 00:01:11.140]   Ent├úo a gente usa esse medicamento para a pessoa poder dormir. Seria uma outra op├º├úo tamb├®m.
+[00:01:11.140 --> 00:01:18.440]   Eu perguntei sobre esse rem├®dio espec├¡fico, ele me explicou, a├¡ perguntei quanto tempo teria de tomar um antidepressivo se optasse pelo tratamento cont├¡nuo.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:01:18.440 --> 00:01:24.980]   A├¡ teria que ter um tratamento para esse tipo de ansiedade, ├® algo em torno de tr├¬s a seis meses.
+[00:01:24.980 --> 00:01:29.860]   E a├¡ depois o progn├│stico disso ├® parar de tomar e estabilizar?
+[00:01:29.860 --> 00:01:38.920]   Geralmente quando a pessoa responde bem, o tratamento ├® bem feito, a tend├¬ncia ├® que a pessoa depois de ficar sem medicamento, continue com ele.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:01:38.920 --> 00:01:49.840]   As pessoas que precisam tomar por mais tempo, tem pessoas que param bem, depois de um certo tempo de se voltar a tomar, d├í para afirmar se muita coisa com o antidepressivo.
+[00:01:49.840 --> 00:01:54.080]   Entendi. E tem muitos efeitos colaterais a esse medicamento?
+[00:01:54.080 --> 00:02:03.820]   N├úo, pode dar um pouquinho de inau, fazer um pouco de show, uma cove├ºa, fora de isso. Voc├¬ tem problema de press├úo alta? N├úo, n├úo tem problema nenhum.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:02:03.820 --> 00:02:10.480]   A boca pode ficar um pouco seca, pode prender um pouco o intestino, mas nada que ├® muito significativo.
+[00:02:10.480 --> 00:02:13.080]   Entendi. Vamos fazer isso ent├úo, doutor.
+[00:02:13.080 --> 00:02:15.760]   No fim, eu disse que optaria pelo tratamento completo.
+[00:02:15.760 --> 00:02:20.960]   Ent├úo Tom├ís, eu vou escolher uma outra medica├º├úo, a uma que eu facei l├í atr├ís.
+[00:02:20.960 --> 00:02:29.240]   Eu vou escolher ent├úo um medicamento chamado Venift Podrex 37,5 mg.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:02:29.240 --> 00:02:43.840]   O Venift ├® outro antidepressivo que mexe com as monoaminas, mas esse, al├®m da serotonina, tamb├®m inibe a recaptura da noradrenalina, ou seja, faz com que essas monoaminas se tornem mais abundantes nas fendas sin├ípticas.
+[00:02:43.840 --> 00:02:51.320]   Voc├¬ vai come├ºar tomando uma c├ípsula depois do caf├® da manh├ú. ├ë importante tomar ele quando se tomar um cheio?
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:02:51.320 --> 00:03:01.040]   Ele me explicou como eu devia usar o rem├®dio. Depois, no melhor estilo, vai beber alguma coisa enquanto espera. Ele me perguntou se eu n├úo queria uma droguinha de efeito mais imediato.
+[00:03:01.040 --> 00:03:12.680]   Voc├¬ gostaria de prestar de algum medicamento espec├¡fico para o sono, a esse? Um calmante, leite, alguma coisa assim? Ou voc├¬ prefere aguardar o efeito dessa medica├º├úo?
+[00:03:12.680 --> 00:03:16.880]   Eu, no melhor estilo, j├í que estamos aqui mesmo, falei para mandar descer.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:03:16.880 --> 00:03:28.940]   T├í, ent├úo eu vou lhe prestar o mesmo calmante que ele prestaria para outra vez. Chama-se "Frontal", que serve a 5 mg, para voc├¬ tomar um confrido mais ou menos...
+[00:03:28.940 --> 00:03:39.800]   Ele pediu para eu confirmar o endere├ºo e me informou sobre a burocracia para retirar-te das receitas, que ├® tamb├®m uma forma de lhe garantir que eu assine a guia do conv├¬nio, que vai garantir que ele seja pago.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:03:39.800 --> 00:03:50.220]   Essa receita vai estar dispon├¡vel no consultor a partir de amanh├ú cedo, e ela precisa ser retirada at├® ter├ºa-feira da pr├│xima semana mais tarde.
+[00:03:50.220 --> 00:03:52.360]   T├í, combinado ent├úo, doutor?
+[00:03:52.360 --> 00:03:56.720]   Eu vou-lhe prestar ent├úo esses medicamentos para um m├¬s.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:03:56.720 --> 00:04:10.920]   Antes de terminar a medica├º├úo, n├úo espera terminar, porque esse antidepressivo por volatilizar e n├úo pode ser interrompido abruptamente, nem interromper ele abruptamente voc├¬ vai passar mal. Ent├úo, antes de acabar,
+[00:04:10.920 --> 00:04:24.600]   entre em contato com a secret├íria e lhe armar uma outra consulta para me contar como ├® que foi, se foi bem, se n├úo foi bem, se a gente vai manter, se vai aumentar a dor, se trocar, se inundar, para dar sequ├¬ncia a fim de tal tratamento.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:04:24.600 --> 00:04:26.920]   Legal. Combinado, doutor.
+[00:04:26.920 --> 00:04:28.760]   Alguma coisa mais, Thomas?
+[00:04:28.760 --> 00:04:29.960]   N├úo, s├│ isso mesmo.
+[00:04:29.960 --> 00:04:32.040]   Ok, ent├úo at├® uma pr├│xima vez.
+[00:04:32.040 --> 00:04:33.580]   At├® a pr├│xima. Obrigado, doutor.
+[00:04:33.580 --> 00:04:46.240]   Ao todo, do boa tarde ao at├® a pr├│xima vez, a consulta durou 12 minutos cravados.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:04:49.780 --> 00:04:59.780]   E voc├¬ pode estar achando que a coisa toda foi r├ípida assim, porque ele j├í me conhecia e j├í sabia o meu quadro. Mas infelizmente, n├úo ├® esse o caso.
+[00:04:59.780 --> 00:05:06.040]   Na consulta anterior, tinha sido o mesmo esquema. E foi algo que me marcou demais.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:05:06.040 --> 00:05:22.000]   Porque ele n├úo perguntou, por exemplo, se eu tenho um problema de v├¡cio em drogas, se eu tenho gastrite, se eu j├í tive alguma idea├º├úo suicida, n├úo perguntou nada sobre os meus h├íbitos, sobre a minha vida, n├úo tentou nem por um instante entender o que poderia estar causando a minha condi├º├úo e n├úo sugeriu que eu procurasse outro tipo de tratamento.
+[00:05:22.000 --> 00:05:32.240]   Ele simplesmente me colocou numa caixinha de transtorno e me receitou duas drogas extremamente poderosas, com uma lista de efeitos colaterais que deixaria o Kate Richards com um p├® atr├ís.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:05:35.240 --> 00:05:45.220]   Aqui vale dizer que esse processo todo diz muito sobre a forma como a gente tem enfrentado a sa├║de mental, mas tamb├®m diz um tanto sobre a forma como a gente tem lidado com a sa├║de como um todo.
+[00:05:45.220 --> 00:05:52.960]   As empresas de plano de sa├║de costumam pagar entre 40 e 150 reais para os m├®dicos, o que favorece esse sistema fortista de atendimento.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:05:55.500 --> 00:06:15.960]   A gente tem uma mudan├ºa tamb├®m da atitude dos profissionais de sa├║de, que est├úo muito pressionados a serem t├®cnicos, mais do que figuras que v├úo criar um relacionamento pessoal de alguma forma ali, claro que na posi├º├úo de profissional, mas ├® um relacionamento, a pessoa sabe quem voc├¬ ├®, voc├¬ sabe quem a pessoa ├®, tem ali alguma coisa muito peculiar de quem voc├¬ ├® naquele tratamento.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:06:15.960 --> 00:06:27.480]   Ent├úo os m├®dicos est├úo sendo ensinados a serem t├®cnicos despersonalizados, despessoalizados, que v├úo aplicar um protocolo que diz que se a pessoa queixa de ansiedade voc├¬ tem que dar o rem├®dio.
+[00:06:27.480 --> 00:06:39.200]   Eu acho curioso essa quest├úo. Por um lado, os cientistas s├®rios que trabalham com doen├ºa mental est├úo percebendo que a gente n├úo consegue explicar pelo lado s├│ biol├│gico, certo?
+[00:06:39.200 --> 00:06:44.360]   E ao mesmo tempo a sociedade como um todo est├í querendo uma resposta que seja por a├¡, n├®?
+[00:06:44.360 --> 00:06:44.960]   Sim.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:06:45.160 --> 00:06:58.760]   Voc├¬ est├í me falando justamente isso, o que voc├¬ falou no livro tamb├®m, ele est├í deixando as terapias, ele est├í deixando de olhar para uma vida que n├úo seja patologizante, vamos dizer assim, e a gente est├í querendo uma solu├º├úo que venha numa p├¡lula.
+[00:06:58.760 --> 00:07:06.960]   E ao mesmo tempo que a medicina est├í falando, olha, essa p├¡lula n├úo resolve, certo? ├ë muito doido pensar isso, n├®? ├ë um paradoxo gigantesco.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:07:07.960 --> 00:07:17.480]   Sim, tem a ver com a gente criar uma vis├úo da psiquiatria de que psiquiatria ├® igual a prescrever rem├®dio, n├®?
+[00:07:17.480 --> 00:07:23.680]   Ent├úo a gente d├í um valor para o rem├®dio dentro da psiquiatria, dentro da atua├º├úo do psiquiatra, que ├® muito maior do que ela realmente ├®.
+[00:07:23.680 --> 00:07:35.560]   E tamb├®m a gente come├ºa a ter muitos cl├¡nicos que n├úo s├úo psiquiatras, n├®, m├®dicos de outras especialidades prescrevendo esses rem├®dios muito influenciados pela ind├║stria farm├ícia, eu acho que muito intolerantes a manifesta├º├Áes da condi├º├úo humana.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:07:36.040 --> 00:07:50.040]   Ent├úo assim, as pessoas est├úo mais sofrendo, mas as pessoas que escutam esse sofrimento est├úo menos tolerantes, est├úo com mais press├úo para dar uma solu├º├úo r├ípida, numa consulta muito curta que ela n├úo tem muito como saber de onde aquilo veio.
+[00:07:50.040 --> 00:08:03.680]   Ent├úo voc├¬ come├ºa a ter um uso exagerado da medica├º├úo para medicar coisas que s├úo da condi├º├úo humana, que n├úo s├úo necessariamente sintomas patol├│gicos que a gente possa atribuir a uma doen├ºa e come├ºam a banalizar esse uso.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:08:04.160 --> 00:08:30.840]   E a gente come├ºa, por exemplo, a ter a ideia de que tratamentos de certas doen├ºas s├úo primordialmente com medica├º├úo, transtornos de leve de aten├º├úo, por exemplo, existem in├║meros tratamentos de transtornos de leve de aten├º├úo que n├úo envolvem rem├®dio, mas toda vez que a gente pensa nisso a primeira coisa que vem na cabe├ºa ├® o rem├®dio, porque ├® isso que est├í na cultura, est├í muito disperso na cultura, as pessoas come├ºam a tomar cada vez mais rem├®dio, mas muitas vezes esses rem├®dios est├úo mal indicados, est├úo fora de contexto ou est├úo tratando a condi├º├úo humana.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:08:33.600 --> 00:08:45.160]   E assim, eu me senti razoavelmente seguro para vestir o meu jaleco jornal├¡stico e arriscar um diagn├│stico para a pergunta que tem guiado esse epis├│dio e o ├║ltimo, porque se a gente somar tudo o que foi dito at├® aqui,
+[00:08:45.160 --> 00:08:56.240]   o desconhecimento de como as drogas funcionam, a dissemina├º├úo dos antidepressivos baseada na hip├│tese falsa das monoaminas, as propagandas que vendiam drogas psicoativas como se fosse uma panaceia,
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:08:56.800 --> 00:09:04.720]   os efeitos t├úo pr├│ximos aos dos placebos, os conflitos de interesse por tr├ís do DSM, a prolifera├º├úo de transtornos mentais diagnostic├íveis,
+[00:09:04.720 --> 00:09:13.880]   os diagn├│sticos de tiktok, os pls para os autistas n├úo pagarem ped├ígio e para coroar, um diagn├│stico com duas receitas controladas em 12 minutos.
+[00:09:13.880 --> 00:09:24.440]   Tudo isso me faz dizer sem medo de errar, que sim, a gente vive uma epidemia de diagn├│sticos que t├¬m feito as pessoas se medicarem demais.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:09:26.480 --> 00:09:30.680]   O problema, ├® que essa resposta, ├® s├│ uma parte da resposta.
+[00:09:30.680 --> 00:09:44.560]   Uma boa forma de entender isso melhor, ├® voltando para a hist├│ria do Victor.
+[00:09:44.560 --> 00:09:51.600]   Primeiro, as drogas psicoativas, no caso um anticonvulsivo, permitiram que ele tivesse uma vida normal,
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:09:52.160 --> 00:10:00.040]   evitaram que ele fosse dormir toda a noite com medo de acordar com os ossos quebrados. Al├®m disso, teve o controle da depress├úo, um transtorno que o Victor come├ºou a conhecer.
+==== [chunk_005] ====
+whisper_vitisai_encode: Vitis AI model inference completed.
+
+[00:00:00.000 --> 00:00:04.000]   sei quando estava com 20 anos e tinha acabado de entrar na faculdade de engenharia.
+[00:00:04.000 --> 00:00:09.200]   Comecei um curso, n├úo gostava do curso e meu Deus, o que eu vou fazer?
+[00:00:09.200 --> 00:00:12.880]   Eu n├úo aguento mais isso e tudo mais, como lidar e tal.
+[00:00:12.880 --> 00:00:18.340]   Percebi que, de fato, eu sentia mais do que uma ang├║stia
+[00:00:18.340 --> 00:00:24.120]   e sentia uma desesperan├ºa que extrapolava o que, sei l├í,
+[00:00:24.120 --> 00:00:27.460]   razo├ível sentir-se, ├® que existe uma r├®gua para isso.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:00:27.460 --> 00:00:32.200]   Mas eu mesmo percebi que a coisa estava indo um pouco al├®m
+[00:00:32.200 --> 00:00:36.340]   do que seria o normal de ang├║stias cotidianas.
+[00:00:36.340 --> 00:00:40.140]   O Victor procurou ajuda, come├ºou a tomar antidepressivos, a fazer terapia
+[00:00:40.140 --> 00:00:44.040]   e desde aquela ├®poca tem lidado com a depress├úo em fases que se alternam.
+[00:00:44.040 --> 00:00:48.220]   A fase da pandemia foi, obviamente, uma fase muito cr├¡tica.
+[00:00:48.220 --> 00:00:52.120]   Desde a pandemia o mundo ├® muito diferente
+[00:00:52.120 --> 00:00:56.220]   e eu acho que a gente, claro, continua.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:00:56.520 --> 00:01:01.760]   A gente segue, s├│ que, enfim, as coisas elas deixaram uma marca.
+[00:01:01.760 --> 00:01:06.100]   A pandemia deixa uma marca em todo mundo e a gente lida com isso.
+[00:01:06.100 --> 00:01:11.480]   Eu fa├ºo acompanhamento psiqui├ítrico e ao longo desse acompanhamento
+[00:01:11.480 --> 00:01:15.500]   tem fases em que as coisas est├úo mais agudas ou menos agudas.
+[00:01:15.500 --> 00:01:20.140]   Portanto, tem fases em que o tamanho da receita ├® maior ou menor.
+[00:01:20.140 --> 00:01:25.220]   E a├¡ os rem├®dios de v├írias naturezas t├¬m ansiol├¡ticos, t├¬m antidepressivos,
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:01:25.220 --> 00:01:28.120]   t├¬m as suas particularidades.
+[00:01:28.120 --> 00:01:31.360]   T├¬m suas particularidades, muitas particularidades.
+[00:01:31.360 --> 00:01:36.420]   E como a gente j├í disse, os transtornos mentais em geral e a depress├úo em particular
+[00:01:36.420 --> 00:01:40.220]   s├úo diferentes de um problema como colesterol alto, por exemplo.
+[00:01:40.220 --> 00:01:44.960]   A depress├úo at├® pode ter uma base biol├│gica, at├® pode existir algum gene
+[00:01:44.960 --> 00:01:48.900]   que deixe as pessoas predispostas a entrar no labinto no qual o Victor tem entrado
+[00:01:48.900 --> 00:01:51.880]   sa├¡do ao longo das ├║ltimas duas d├®cadas.
+[00:01:51.880 --> 00:01:55.080]   Mas at├® hoje os cientistas n├úo conseguiram comprovar isso.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:01:55.880 --> 00:01:57.840]   Ao mesmo tempo, tem um lado de fora.
+[00:01:57.840 --> 00:02:12.060]   Tem os cursos de engenharia, as desilus├Áes com o emprego,
+[00:02:12.060 --> 00:02:15.760]   tem as pandemias sem vacina em vista, tem um mud├úo terr├¡vel,
+[00:02:15.760 --> 00:02:18.760]   sempre ├á beira do colapso, quem antes estava l├í do outro lado
+[00:02:18.760 --> 00:02:23.100]   e hoje est├í o tempo inteiro com a gente no nosso bolso, na nossa mesa de cabeceira.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:02:23.460 --> 00:02:26.200]   As umas not├¡cias sempre lendo no feed enquanto a gente dorme.
+[00:02:26.200 --> 00:02:34.440]   E voc├¬ est├í com o celular e voc├¬ est├í sempre conectado ├á internet
+[00:02:34.440 --> 00:02:36.780]   e tudo chega at├® voc├¬.
+[00:02:36.780 --> 00:02:38.980]   Voc├¬ n├úo precisa mais ativamente.
+[00:02:38.980 --> 00:02:40.820]   Ah, poxa, eu vou ler not├¡cias.
+[00:02:40.820 --> 00:02:43.180]   N├úo, as coisas simplesmente chegam at├® voc├¬.
+[00:02:43.180 --> 00:02:48.760]   Eu acho que isso, de certa maneira, traz uma certa percep├º├úo diferente
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:02:49.100 --> 00:02:54.260]   e contribui para um certo quadro
+[00:02:54.260 --> 00:02:59.440]   mais ou menos generalizado de desesperan├ºa e etc.
+[00:02:59.440 --> 00:03:01.880]   Quando eu perguntei sobre isso para a Juliana Berodiniz,
+[00:03:01.880 --> 00:03:05.540]   sobre o outro lado, sobre o mundo que deixa a gente mais doente,
+[00:03:05.540 --> 00:03:07.980]   ela falou sobre competi├º├úo.
+[00:03:07.980 --> 00:03:12.120]   A quest├úo da competitividade e de uma sensa├º├úo crescente
+[00:03:12.120 --> 00:03:14.280]   de que ├® imposs├¡vel ganhar a competi├º├úo.
+[00:03:14.280 --> 00:03:16.320]   Ent├úo a gente v├¬ isso muito em adolescentes.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:03:16.320 --> 00:03:19.320]   Os adolescentes, eles v├¬m com uma imagem que ou voc├¬ ├® um influencer
+[00:03:19.320 --> 00:03:23.400]   que ganha dinheiro f├ícil e fica milion├írio, ou a sua vida
+[00:03:23.400 --> 00:03:27.040]   ├® uma vida med├¡ocre sem gra├ºa, em que voc├¬ nunca vai comprar um im├│vel.
+[00:03:27.040 --> 00:03:30.640]   E a leitura deles do mundo n├úo ├® uma leitura t├úo equivocada assim.
+[00:03:30.640 --> 00:03:34.400]   Porque a gente sabe que, por exemplo, o acesso a comprar um im├│vel
+[00:03:34.400 --> 00:03:37.340]   ficou mais dif├¡cil realmente, a nossa gera├º├úo ├® mais dif├¡cil
+[00:03:37.340 --> 00:03:39.380]   que foi para a gera├º├úo dos nossos pais e assim por diante.
+[00:03:39.380 --> 00:03:42.220]   Eles n├úo est├úo t├úo equivocados na leitura deles de mundo.
+[00:03:42.220 --> 00:03:45.860]   Claro que eu acho que ├® uma leitura que n├úo precisa ser assim.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:03:46.120 --> 00:03:49.460]   Tem outro jeito de voc├¬ olhar para o mundo, mas considerando o que eles consomem,
+[00:03:49.460 --> 00:03:52.200]   o que eles est├úo ouvindo, faz sentido que eles pensem assim.
+[00:03:52.200 --> 00:03:55.860]   Mas a gente vive hoje um modo de organiza├º├úo
+[00:03:55.860 --> 00:03:57.500]   das condi├º├Áes de trabalho.
+[00:03:57.500 --> 00:03:59.540]   A pediatra Maria Aparecida Mois├®s.
+[00:03:59.540 --> 00:04:04.100]   Em que voc├¬ recebe um WhatsApp do seu chefe
+[00:04:04.100 --> 00:04:06.500]   ├ás dez da noite.
+[00:04:06.500 --> 00:04:08.140]   Sua m├úe n├úo recebia isso.
+[00:04:08.140 --> 00:04:11.580]   E isto ├® uma sobrecarga, voc├¬ n├úo tem tempo de parar.
+[00:04:11.580 --> 00:04:15.680]   E isso n├úo ├® produzir, isso ├® produtivismo.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:04:16.380 --> 00:04:20.560]   Isso gera muita ang├║stia, muita desesperan├ºa, muito comportamento disruptivo
+[00:04:20.560 --> 00:04:23.920]   e muito desinteresse, porque para que eu vou investir em alguma coisa
+[00:04:23.920 --> 00:04:27.960]   se a minha vida est├í condenada a ser um saco, que ├® muitas vezes o que eles trazem.
+[00:04:27.960 --> 00:04:31.900]   E a├¡ muita gente v├¬ isso, v├¬ essa rea├º├úo dos adolescentes
+[00:04:31.900 --> 00:04:34.700]   como se eles tivessem um transtorno de defici├¬ncia porque eles est├úo desinteressados.
+[00:04:34.700 --> 00:04:37.940]   N├úo, eles n├úo t├¬m transtorno de defici├¬ncia, eles est├úo desinteressados
+[00:04:37.940 --> 00:04:41.980]   porque o que eles est├úo vendo ali ├á volta deles est├í levando.
+[00:04:41.980 --> 00:04:44.220]   Eles acreditaram em um cen├írio muito sombrio.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:04:44.540 --> 00:04:48.880]   E a gente sempre corre o risco de banalizar o sofrimento alheio
+[00:04:48.880 --> 00:04:52.220]   quando a gente fala dessa forma, mas a gente tem a impress├úo de que
+[00:04:52.220 --> 00:04:55.520]   se voc├¬ n├úo tem d├®ficit de aten├º├úo ├® porque voc├¬ n├úo tem um celular no bolso, sabe?
+[00:04:55.520 --> 00:04:58.060]   Porque a gente est├í o tempo inteiro, o tempo inteiro distra├¡do.
+[00:04:58.060 --> 00:05:03.860]   Eu sinto o meu c├®rebro sendo moldado por essa tecnologia
+[00:05:03.860 --> 00:05:08.700]   de uma forma muito delet├®ria e eu n├úo consigo me livrar disso.
+[00:05:08.700 --> 00:05:11.980]   E assim, eu acho que qualquer pessoa com quem voc├¬ vai conversar
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:05:12.280 --> 00:05:15.640]   vai ter a mesma vis├úo de que esse celular
+[00:05:15.640 --> 00:05:20.240]   de fato est├í causando uma mudan├ºa no c├®rebro e que tem um lado patol├│gico, n├úo?
+[00:05:20.240 --> 00:05:25.320]   Sem d├║vida, eu acho que a sobrecarga de informa├º├úo, a velocidade da informa├º├úo,
+[00:05:25.320 --> 00:05:28.360]   a facilidade de acesso, que ├® uma coisa meio maluca, n├®?
+[00:05:28.360 --> 00:05:30.320]   Porque para essa facilidade ├® sempre bom.
+[00:05:30.320 --> 00:05:33.360]   Mas aquela coisa a gente n├úo se organiza mais para ver no centro
+[00:05:33.360 --> 00:05:35.500]   para ver o filme que s├│ vai passar naquele hor├írio.
+[00:05:35.500 --> 00:05:37.100]   Eu posso ver em qualquer hora, eu posso parar no meio,
+[00:05:37.100 --> 00:05:39.700]   eu posso ver outra coisa, eu posso ver o celular enquanto eu vejo o filme, enfim.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:05:43.280 --> 00:05:48.480]   L├í atr├ís, quando eu te contei da minha ins├┤nia,
+[00:05:48.480 --> 00:05:50.740]   eu disse que as crises tinham se tornado raras
+[00:05:50.740 --> 00:05:53.680]   e que eu sabia exatamente por que isso tinha acontecido.
+[00:05:53.680 --> 00:05:57.960]   E teve a ver, basicamente,
+[00:05:57.960 --> 00:06:00.820]   com essa viagem que voc├¬ tem acompanhado nos seus fones de ouvido.
+[00:06:00.820 --> 00:06:04.220]   Com o advento do escafandro.
+[00:06:04.220 --> 00:06:07.600]   Primeiro, em alguma medida, porque hoje
+[00:06:07.600 --> 00:06:11.000]   eu consigo me organizar de forma a tornar raros os dias em que eu tenho de madrugar.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:06:11.860 --> 00:06:14.400]   Mas isso ├® o de menos.
+[00:06:14.400 --> 00:06:17.040]   A grande mudan├ºa que o escafandro trouxe para a minha vida
+[00:06:17.040 --> 00:06:21.520]   foi uma pitadinha, uma brisa ilus├│ria de prop├│sito.
+[00:06:21.520 --> 00:06:26.780]   Em outras palavras, eu estou trabalhando com algo que faz sentido para mim.
+[00:06:26.780 --> 00:06:28.820]   Ent├úo, sim, acho que tem essa sobrecarga,
+[00:06:28.820 --> 00:06:32.020]   mas tamb├®m eu acho que uma coisa que as pessoas deixam de olhar ├® que assim,
+[00:06:32.020 --> 00:06:35.860]   o que que mobiliza a gente, o que que faz a gente fazer algo?
+[00:06:35.860 --> 00:06:37.560]   Juliana Belo Diniz.
+[00:06:37.560 --> 00:06:41.220]   ├ë uma coisa que ├® emocional, a gente tem um envolvimento, a gente se apaixona.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:06:41.360 --> 00:06:44.600]   Voc├¬ faz esse programa, voc├¬ apaixonado, por isso que voc├¬ gosta desse neg├│cio.
+[00:06:44.600 --> 00:06:47.840]   ├ë uma realiza├º├úo, voc├¬ acha muito leal quando o programa vai pro ar
+[00:06:47.840 --> 00:06:49.440]   e voc├¬ v├¬ o que voc├¬ fez.
+[00:06:49.440 --> 00:06:53.440]   A gente tem essa motiva├º├úo, mas que ela depende muito do nosso interesse.
+[00:06:53.440 --> 00:06:57.440]   E assim, existem alguns problemas nessa minha cabotina jornada do her├│i.
+[00:06:57.440 --> 00:07:01.780]   Primeiro, eu levei duas d├®cadas devidamente pontuadas por crises de ins├┤nia
+[00:07:01.780 --> 00:07:04.180]   para construir essa rota de fuga.
+[00:07:04.180 --> 00:07:08.020]   E segundo, eu estou num lugar privilegiado que me permitiu fazer isso
+[00:07:08.020 --> 00:07:11.020]   ainda aqui em duas d├®cadas.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:07:11.660 --> 00:07:15.060]   E assim, a gente chega ao ponto mais importante desse nosso mergulho,
+[00:07:15.060 --> 00:07:19.200]   porque os transtornos mentais, como tantas outras molestias humanas,
+[00:07:19.200 --> 00:07:21.860]   t├¬m sido tratados como problemas pessoais.
+[00:07:21.860 --> 00:07:25.600]   Em alguns casos, eles inclusive s├úo usados como formas individuais
+[00:07:25.600 --> 00:07:27.640]   de virar as costas para outros problemas.
+[00:07:27.640 --> 00:07:34.480]   Quando voc├¬ recebe um diagn├│stico, seja ele real ou n├úo,
+[00:07:34.480 --> 00:07:37.180]   ele te acalma, especialmente nesse campo.
+[00:07:37.180 --> 00:07:40.320]   Ufa, ent├úo ├® isso que eu tenho.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:07:40.320 --> 00:07:43.760]   N├úo sou eu que estou sendo agressivo
+[00:07:43.760 --> 00:07:47.520]   e eu preciso ver o que ├® que eu estou fazendo na minha vida,
+[00:07:47.520 --> 00:07:50.460]   que rela├º├Áes eu estou construindo, que eu estou sendo agressivo.
+[00:07:50.460 --> 00:07:53.100]   N├úo, eu tenho um transtorno mental.
+[00:07:53.100 --> 00:07:54.600]   Ent├úo isso me acalma.
+[00:07:54.600 --> 00:07:57.500]   Mas esse fen├┤meno, de novo, est├í na esfera individual.
+[00:07:57.500 --> 00:08:01.440]   E a essa altura, eu acho que ficou claro que a gente est├í falando de uma epidemia.
+[00:08:01.440 --> 00:08:07.720]   Na verdade, de duas epidemias que se misturam e em boa parte dos casos se sobrep├Áe.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:08:08.440 --> 00:08:12.120]   De um lado, a epidemia de diagn├│sticos e de medicaliza├º├úo em excesso.
+[00:08:12.120 --> 00:08:15.460]   De outro, a epidemia de doen├ºas mentais.
+[00:08:15.460 --> 00:08:20.200]   E eu sei que voc├¬ que est├í me escutando estava nesse planetinha quando sete anos atr├ís
+[00:08:20.200 --> 00:08:23.200]   a gente come├ºou a ouvir falar de um v├¡rus transmitido por morcegos
+[00:08:23.200 --> 00:08:24.940]   que tinha aparecido na China.
+[00:08:24.940 --> 00:08:28.740]   Voc├¬ sabe bem que n├úo se enfrenta epidemias s├│ tratando os indiv├¡duos.
+[00:08:28.740 --> 00:08:32.080]   As solu├º├Áes precisam ser coletivas.
+[00:08:32.080 --> 00:08:34.980]   Quando eu atendo uma crian├ºa com verminose,
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:08:34.980 --> 00:08:38.680]   ela tem verminose e n├úo ├® um problema dela individual.
+[00:08:38.680 --> 00:08:42.280]   Ela tem verminose pela quest├úo de saneamento b├ísico, OK?
+[00:08:42.280 --> 00:08:43.980]   E a gente precisa lutar por isso.
+[00:08:43.980 --> 00:08:46.420]   Mas n├úo ├® por isso que eu n├úo vou dar um verm├¡fugo.
+[00:08:46.420 --> 00:08:49.620]   Ent├úo eu dou verm├¡fugo para tratar a verminose.
+[00:08:49.620 --> 00:08:54.760]   Mas eu converso com essa m├úe e esse pai dizendo olha, vai voltar daqui um ano.
+[00:08:54.760 --> 00:08:58.160]   N├úo ├® porque ele tem um problema, n├úo ├® porque o rem├®dio n├úo funciona.
+[00:08:58.160 --> 00:09:00.840]   ├ë porque ele n├úo tem saneamento b├ísico.
+[00:09:00.840 --> 00:09:03.340]   Ent├úo precisamos lutar por isso.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:09:03.340 --> 00:09:06.640]   Na sa├║de mental, a gente sempre bate muito na tecla da interdisciplinaridade,
+[00:09:06.640 --> 00:09:11.140]   da conversa entre as ├íreas, entre saberes, justamente para elas se complementarem.
+[00:09:11.140 --> 00:09:14.180]   A Especialista em Sa├║de Coletiva, Diana Rosa.
+[00:09:14.180 --> 00:09:18.020]   A psiquiatria vai acabar olhando para o sintoma, olhando para o indiv├¡duo.
+[00:09:18.020 --> 00:09:22.560]   A psicologia, ela j├í vai olhar para o contexto, vai olhar para o coletivo.
+[00:09:22.560 --> 00:09:25.400]   E como que essas ├íreas, elas podem se complementar?
+[00:09:25.400 --> 00:09:27.960]   Eu acho que ├® importante tamb├®m dizer isso,
+[00:09:27.960 --> 00:09:32.860]   porque basicamente esse ├® o processo social que a gente vive hoje.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:09:33.560 --> 00:09:37.400]   Na individualiza├º├úo, na fragmenta├º├úo da vida,
+[00:09:37.400 --> 00:09:41.880]   a gente perde um pouco a no├º├úo da sa├║de coletiva,
+[00:09:41.880 --> 00:09:44.340]   que ├® uma sa├║de mental coletiva tamb├®m.
+[00:09:44.340 --> 00:09:48.940]   Ent├úo podemos estar de fato diante de um processo de adoecimento coletivo,
+[00:09:48.940 --> 00:09:53.820]   mas tratamos isso no individual, na busca dos sintomas, do medicamento
+[00:09:53.820 --> 00:10:00.000]   e que a gente sabe que isso pode dar conta ali no momento, mas n├úo ataca muito a raiva.
+==== [chunk_006] ====
+whisper_vitisai_encode: Vitis AI model inference completed.
+
+[00:00:00.000 --> 00:00:04.780]   Ent├úo acho que isso diz muito sobre o tipo de sociedade que a gente vive hoje.
+[00:00:04.780 --> 00:00:08.320]   E a├¡ voc├¬ resolve o seu problema, at├® o pr├│ximo problema aparecer.
+[00:00:08.320 --> 00:00:16.460]   No fim da minha longa conversa com a Juliana Berodinis, a gente falou sobre uma quest├úo
+[00:00:16.460 --> 00:00:20.540]   que para mim pode ser bem resumida pela met├ífora do prego e do martelo.
+[00:00:20.540 --> 00:00:27.020]   Porque l├í em meados do s├®culo passado, os cientistas descobriram essa ferramenta incr├¡vel,
+[00:00:27.020 --> 00:00:29.820]   que s├úo as drogas psicoativas.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:00:29.820 --> 00:00:31.320]   O martelo da nossa met├ífora.
+[00:00:31.320 --> 00:00:38.080]   O problema ├® que uma parte dos psiquiatras ficou t├úo deslumbrada com esse martelo que
+[00:00:38.080 --> 00:00:40.320]   jogou fora o restante das ferramentas.
+[00:00:40.320 --> 00:00:43.540]   E a├¡, j├í viu, n├®?
+[00:00:43.540 --> 00:00:49.000]   Quando voc├¬ s├│ tem o martelo, todos os seus problemas ficam parecendo um prego.
+[00:00:49.000 --> 00:00:54.460]   Na vers├úo mais recente desse dilema, a Juliana me falou sobre a persegui├º├úo dos tais marcadores
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:00:54.460 --> 00:01:00.060]   biol├│gicos, n├úo necessariamente para explicar as doen├ºas, mas para identificar o melhor
+[00:01:00.060 --> 00:01:01.900]   martelo a ser usado em cada paciente.
+[00:01:01.900 --> 00:01:07.340]   Isso tem a ver com o advento da chamada medicina de precis├úo.
+[00:01:07.340 --> 00:01:13.420]   A medicina de precis├úo, ela tem uma import├óncia muito grande na oncologia.
+[00:01:13.420 --> 00:01:20.580]   A gente viu respostas e tratamentos com resultados muito extraordin├írios.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:01:20.580 --> 00:01:27.180]   As doen├ºas letais que passaram a ser tratadas quando a gente come├ºou a olhar para cada
+[00:01:27.180 --> 00:01:32.380]   tumor e tentar descrever nos m├¡nimos detalhes a composi├º├úo daquele tumor e descobrir exatamente
+[00:01:32.380 --> 00:01:35.900]   qual que ├® o receptor que a gente tem que atuar para aquele tumor espec├¡fico.
+[00:01:35.900 --> 00:01:37.180]   Ent├úo isso que ├® a medicina de precis├úo.
+[00:01:37.180 --> 00:01:41.660]   A gente est├í meio deslumbrado com isso em certas ├íreas, que em algumas ├íreas isso est├í
+[00:01:41.660 --> 00:01:44.620]   tendo efeitos realmente incr├¡veis.
+[00:01:44.620 --> 00:01:48.060]   E a├¡ v├írias especialidades tentaram fazer paralelos.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:01:48.060 --> 00:01:53.500]   Ent├úo se a precis├úo est├í funcionando na oncologia, a gente pode levar essa precis├úo
+[00:01:53.500 --> 00:01:56.740]   para outras especialidades, entre elas a psiquiatria.
+[00:01:56.740 --> 00:02:02.460]   E a├¡ voc├¬ come├ºa a investir na busca por marcadores biol├│gicos que n├úo v├úo ser marcadores
+[00:02:02.460 --> 00:02:06.620]   de doen├ºa, porque a gente j├í sabe que essa ponte n├úo ├® transit├ível, mas que a gente
+[00:02:06.620 --> 00:02:12.580]   sup├Áe que podem nos ajudar a dizer se um tratamento vai ser melhor que outro para aquela
+[00:02:12.580 --> 00:02:13.580]   pessoa.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:02:13.580 --> 00:02:18.980]   Agora isso deu resultados incr├¡veis na psiquiatria at├® hoje, muito pelo contr├írio, mas existe
+[00:02:18.980 --> 00:02:24.020]   esse grande investimento nessa ideia de precis├úo baseada em marcadores biol├│gicos.
+[00:02:24.020 --> 00:02:28.660]   E a├¡ ├® uma grande aposta e muita gente investe muito dinheiro nisso, acha que isso vai ser
+[00:02:28.660 --> 00:02:30.780]   a grande revolu├º├úo para a psiquiatria.
+[00:02:30.780 --> 00:02:35.300]   S├│ quando a gente olha para as doen├ºas mentais e v├¬ que pelo menos os transtornos mentais
+[00:02:35.300 --> 00:02:38.580]   comuns t├¬m essa diferen├ºa dos transtornos mentais graves, a preval├¬ncia n├úo aumenta
+[00:02:38.580 --> 00:02:43.140]   tanto, n├úo ├® t├úo vari├ível por quest├Áes sociais como a preval├¬ncia dos transtornos
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:02:43.140 --> 00:02:44.140]   mentais comuns.
+[00:02:44.140 --> 00:02:48.420]   Se a gente olhar para os transtornos mentais comuns, tem essa preval├¬ncia que vai aumentando
+[00:02:48.420 --> 00:02:53.300]   exponencialmente numa velocidade que n├úo pode ser explicada por fatores biol├│gicos.
+[00:02:53.300 --> 00:02:57.300]   Como ├® que a gente vai poder dizer que marcadores biol├│gicos v├úo ser a revolu├º├úo para esse
+[00:02:57.300 --> 00:03:02.100]   tipo de manifesta├º├úo que parece claramente ligada a fatores culturais sociais?
+[00:03:02.100 --> 00:03:03.100]   Ent├úo n├úo d├í.
+[00:03:03.100 --> 00:03:08.100]   A├¡ a gente tem uma resposta que fala olha, a gente n├úo consegue ainda trabalhar com marcadores
+[00:03:08.100 --> 00:03:12.340]   biol├│gicos, a gente n├úo tem nenhum marcador biol├│gico que tem utilidade cl├¡nica atualmente,
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:03:12.340 --> 00:03:19.740]   mas a gente tem uma outra coisa que s├úo as quest├Áes sociais que a gente sabe com muito
+[00:03:19.740 --> 00:03:24.900]   mais evid├¬ncia que est├úo associadas aos transtornos mentais e que a gente pode ter uma atua├º├úo
+[00:03:24.900 --> 00:03:28.820]   muito mais direta afetando uma popula├º├úo muito maior, porque se eu vejo que desigualdade
+[00:03:28.820 --> 00:03:33.180]   social ├® o que aumenta a preval├¬ncia do transtorno mental e eu fizer alguma coisa
+[00:03:33.180 --> 00:03:37.100]   para tentar reduzir desigualdade social, vou ter um impacto na popula├º├úo muito maior
+[00:03:37.100 --> 00:03:41.500]   do que se eu descobrir um marcador biol├│gico que serve para identificar 10 pessoas.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:03:41.500 --> 00:03:45.740]   A gente tem pesquisadores dentro das neuroci├¬ncias que eu acho muito admir├íveis, que ilusam
+[00:03:45.740 --> 00:03:51.080]   as neuroci├¬ncias na verdade em um outro sentido, n├úo no sentido de descobrir as causas biol├│gicas
+[00:03:51.080 --> 00:03:56.580]   das doen├ºas mentais, mas no sentido de provar os efeitos biol├│gicos das quest├Áes sociais.
+[00:03:56.580 --> 00:04:01.540]   Ent├úo eles provam, por exemplo, que experi├¬ncias de discrimina├º├úo alteram o desenvolvimento
+[00:04:01.540 --> 00:04:07.060]   cerebral de um modo significativo, o que eles est├úo dizendo ├®, olha, essas experi├¬ncias
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:04:07.060 --> 00:04:12.700]   de discrimina├º├úo, elas t├¬m muito impacto, ent├úo o que a gente precisa tratar ├® o racismo
+[00:04:12.700 --> 00:04:18.220]   e n├úo o c├®rebro das pessoas que passaram por isso, ent├úo s├úo neurocientistas que
+[00:04:18.220 --> 00:04:22.860]   eu acho muito admir├íveis e que trabalham nessa contracorrente, em vez de procurar a
+[00:04:22.860 --> 00:04:27.880]   causa biol├│gica das doen├ºas mentais, eles mostram, na verdade, que v├írias quest├Áes
+[00:04:27.880 --> 00:04:32.380]   de experi├¬ncia de vida t├¬m muito impacto no desenvolvimento do c├®rebro e portanto a
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:04:32.380 --> 00:04:39.060]   gente deveria tentar melhorar essas experi├¬ncias.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:04:39.060 --> 00:05:06.140]   Antes de terminar, eu quero te convidar a conhecer os outros programas da R├ídio Corda-chuva,
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:05:06.140 --> 00:05:13.780]   nossa rede de podcast jornal├¡sticos, l├í tem programas de todos os estilos e formatos
+[00:05:13.780 --> 00:05:19.340]   de v├írias regi├Áes do pa├¡s e sobre assuntos bem diversificados, o melhor jeito de ter
+[00:05:19.340 --> 00:05:23.980]   uma ideia geral e escolher o que melhor combina com o seu gosto ├® ir dar uma fulsada no instagram
+[00:05:23.980 --> 00:05:30.780]   da guarda-chuva que ├® guarda-chuva pode.
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:05:30.780 --> 00:05:39.060]   Eu sou Tomas Chiaverini e termino aqui o epis├│dio 156 de escafandro, obrigado por escutar e
+[00:05:39.060 --> 00:05:45.700]   at├® o pr├│ximo mergulho.
+[00:05:45.700 --> 00:05:49.900]   Aqui ├® o Lucas Bo├í e eu t├┤ falando de Belo Horizonte, Minas Gerais.
+[00:05:49.900 --> 00:05:56.820]   A mixagem de som desse epis├│dio ├® do Vitor Coroa, a trilha sonora tema ├® do Paulo Gama,
+whisper_vitisai_encode: Vitis AI model inference completed.
+[00:05:56.820 --> 00:06:03.700]   o design das capas ├® da Claudia Furnari, a locu├º├úo adicional ├® da Priscila Pastre,
+[00:06:03.700 --> 00:06:10.220]   a edi├º├úo de ├íudio ├® do Mateus Marcolino, o roteiro, a dire├º├úo e a sonoriza├º├úo s├úo
+[00:06:10.220 --> 00:06:11.500]   do Tomas Chiaverini.
